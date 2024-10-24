@@ -1,0 +1,104 @@
+USER_ID,GENDER,RELIGION,SEGMENTATION,TOTAL_ASSETS,ACCOUNT_AGE,TRANSACTION_TIME
+USER_0001,Laki-laki,Hindu,Mature High Networth,Group 4,Group 2,WEEKDAY - WORKING TIME
+USER_0002,Laki-laki,Buddha,All Segment,Group 3,Group 4,WEEKEND - WEEKEND
+USER_0003,Perempuan,Hindu,Wealthy Achievers,Group 1,Group 3,WEEKEND - WEEKEND
+USER_0004,Laki-laki,Buddha,Wealthy Achievers,Group 1,Group 3,WEEKDAY - RESTING TIME
+USER_0005,Laki-laki,Katolik,All Segment,Group 4,Group 2,WEEKEND - WEEKEND
+USER_0006,Laki-laki,Buddha,Working Professionals,Group 5,Group 2,WEEKEND - WEEKEND
+USER_0007,Laki-laki,Agama Lainnya,All Segment,Group 5,Group 1,WEEKEND - WEEKEND
+USER_0008,Laki-laki,Islam,Wealthy Achievers,Group 1,Group 2,WEEKDAY - RESTING TIME
+USER_0009,Perempuan,Konghucu,Working Professionals,Group 1,Group 4,WEEKDAY - RESTING TIME
+USER_0010,Laki-laki,Konghucu,All Segment,Group 5,Group 3,WEEKDAY - WORKING TIME
+USER_0011,Laki-laki,Islam,Mature High Networth,Group 2,Group 3,WEEKDAY - WORKING TIME
+USER_0012,Laki-laki,Konghucu,Working Professionals,Group 5,Group 1,WEEKEND - WEEKEND
+USER_0013,Laki-laki,Buddha,Wealthy Achievers,Group 3,Group 3,WEEKDAY - RESTING TIME
+USER_0014,Laki-laki,Agama Lainnya,Young Gen & Early Jobber,Group 2,Group 3,WEEKDAY - RESTING TIME
+USER_0015,Laki-laki,Katolik,Minimal,Group 3,Group 5,WEEKEND - WEEKEND
+USER_0016,Laki-laki,Agama Lainnya,Wealthy Achievers,Group 1,Group 4,WEEKDAY - WORKING TIME
+USER_0017,Perempuan,Konghucu,Emerging Wealth,Group 2,Group 5,WEEKDAY - RESTING TIME
+USER_0018,Laki-laki,Katolik,Minimal,Group 3,Group 3,WEEKDAY - WORKING TIME
+USER_0019,Perempuan,Islam,Wealthy Achievers,Group 3,Group 1,WEEKEND - WEEKEND
+USER_0020,Perempuan,Katolik,Minimal,Group 2,Group 1,WEEKDAY - RESTING TIME
+USER_0021,Laki-laki,Hindu,Silver Ager,Group 4,Group 3,WEEKEND - WEEKEND
+USER_0022,Laki-laki,Kristen,Wealthy Achievers,Group 5,Group 2,WEEKDAY - TRAVELING TIME
+USER_0023,Perempuan,Hindu,Working Professionals,Group 3,Group 5,WEEKEND - WEEKEND
+USER_0024,Perempuan,Islam,Working Professionals,Group 5,Group 3,WEEKEND - WEEKEND
+USER_0025,Perempuan,Konghucu,Silver Ager,Group 5,Group 1,WEEKEND - WEEKEND
+USER_0026,Laki-laki,Konghucu,Mature High Networth,Group 1,Group 1,WEEKDAY - RESTING TIME
+USER_0027,Laki-laki,Katolik,Silver Ager,Group 5,Group 5,WEEKEND - WEEKEND
+USER_0028,Perempuan,Buddha,Silver Ager,Group 3,Group 4,WEEKEND - WEEKEND
+USER_0029,Laki-laki,Agama Lainnya,Minimal,Group 1,Group 3,WEEKDAY - TRAVELING TIME
+USER_0030,Laki-laki,Kristen,All Segment,Group 2,Group 3,WEEKDAY - RESTING TIME
+USER_0031,Perempuan,Buddha,Working Professionals,Group 3,Group 4,WEEKDAY - TRAVELING TIME
+USER_0032,Laki-laki,Islam,All Segment,Group 1,Group 5,WEEKEND - WEEKEND
+USER_0033,Perempuan,Agama Lainnya,Silver Ager,Group 1,Group 5,WEEKDAY - RESTING TIME
+USER_0034,Perempuan,Konghucu,Mature High Networth,Group 5,Group 1,WEEKDAY - TRAVELING TIME
+USER_0035,Perempuan,Katolik,Working Professionals,Group 2,Group 4,WEEKEND - WEEKEND
+USER_0036,Laki-laki,Agama Lainnya,Wealthy Achievers,Group 3,Group 5,WEEKDAY - WORKING TIME
+USER_0037,Perempuan,Konghucu,Wealthy Achievers,Group 3,Group 2,WEEKDAY - TRAVELING TIME
+USER_0038,Laki-laki,Buddha,Wealthy Achievers,Group 5,Group 3,WEEKDAY - RESTING TIME
+USER_0039,Perempuan,Buddha,Minimal,Group 2,Group 1,WEEKDAY - TRAVELING TIME
+USER_0040,Laki-laki,Kristen,Emerging Wealth,Group 3,Group 4,WEEKDAY - TRAVELING TIME
+USER_0041,Perempuan,Kristen,Silver Ager,Group 2,Group 1,WEEKDAY - TRAVELING TIME
+USER_0042,Perempuan,Katolik,Emerging Wealth,Group 3,Group 5,WEEKDAY - WORKING TIME
+USER_0043,Laki-laki,Agama Lainnya,Young Gen & Early Jobber,Group 5,Group 5,WEEKDAY - RESTING TIME
+USER_0044,Laki-laki,Kristen,Minimal,Group 4,Group 2,WEEKDAY - RESTING TIME
+USER_0045,Laki-laki,Buddha,Wealthy Achievers,Group 3,Group 3,WEEKDAY - RESTING TIME
+USER_0046,Laki-laki,Agama Lainnya,Working Professionals,Group 1,Group 4,WEEKEND - WEEKEND
+USER_0047,Perempuan,Buddha,Minimal,Group 1,Group 1,WEEKDAY - RESTING TIME
+USER_0048,Laki-laki,Islam,Working Professionals,Group 4,Group 3,WEEKDAY - RESTING TIME
+USER_0049,Laki-laki,Buddha,All Segment,Group 3,Group 5,WEEKDAY - WORKING TIME
+USER_0050,Laki-laki,Katolik,All Segment,Group 1,Group 3,WEEKEND - WEEKEND
+USER_0051,Perempuan,Hindu,Working Professionals,Group 1,Group 1,WEEKEND - WEEKEND
+USER_0052,Perempuan,Islam,Wealthy Achievers,Group 3,Group 3,WEEKDAY - TRAVELING TIME
+USER_0053,Perempuan,Islam,Emerging Wealth,Group 2,Group 5,WEEKEND - WEEKEND
+USER_0054,Perempuan,Katolik,Silver Ager,Group 3,Group 3,WEEKEND - WEEKEND
+USER_0055,Laki-laki,Agama Lainnya,Minimal,Group 2,Group 4,WEEKDAY - WORKING TIME
+USER_0056,Perempuan,Agama Lainnya,Minimal,Group 4,Group 3,WEEKDAY - RESTING TIME
+USER_0057,Perempuan,Katolik,Wealthy Achievers,Group 5,Group 4,WEEKEND - WEEKEND
+USER_0058,Laki-laki,Kristen,Silver Ager,Group 4,Group 3,WEEKEND - WEEKEND
+USER_0059,Perempuan,Islam,All Segment,Group 5,Group 5,WEEKDAY - WORKING TIME
+USER_0060,Laki-laki,Kristen,Emerging Wealth,Group 1,Group 2,WEEKEND - WEEKEND
+USER_0061,Laki-laki,Buddha,Silver Ager,Group 1,Group 2,WEEKEND - WEEKEND
+USER_0062,Laki-laki,Islam,All Segment,Group 1,Group 4,WEEKDAY - WORKING TIME
+USER_0063,Laki-laki,Islam,Silver Ager,Group 2,Group 4,WEEKDAY - TRAVELING TIME
+USER_0064,Perempuan,Konghucu,Young Gen & Early Jobber,Group 5,Group 2,WEEKDAY - TRAVELING TIME
+USER_0065,Perempuan,Hindu,Minimal,Group 1,Group 5,WEEKEND - WEEKEND
+USER_0066,Perempuan,Agama Lainnya,Young Gen & Early Jobber,Group 3,Group 5,WEEKEND - WEEKEND
+USER_0067,Laki-laki,Islam,Silver Ager,Group 5,Group 3,WEEKDAY - RESTING TIME
+USER_0068,Perempuan,Agama Lainnya,Minimal,Group 5,Group 4,WEEKEND - WEEKEND
+USER_0069,Laki-laki,Buddha,Emerging Wealth,Group 2,Group 5,WEEKDAY - RESTING TIME
+USER_0070,Laki-laki,Agama Lainnya,Wealthy Achievers,Group 4,Group 1,WEEKDAY - TRAVELING TIME
+USER_0071,Laki-laki,Kristen,Young Gen & Early Jobber,Group 2,Group 3,WEEKEND - WEEKEND
+USER_0072,Perempuan,Kristen,Wealthy Achievers,Group 1,Group 3,WEEKEND - WEEKEND
+USER_0073,Perempuan,Konghucu,All Segment,Group 3,Group 2,WEEKDAY - WORKING TIME
+USER_0074,Perempuan,Hindu,All Segment,Group 3,Group 4,WEEKEND - WEEKEND
+USER_0075,Laki-laki,Buddha,Mature High Networth,Group 1,Group 5,WEEKDAY - TRAVELING TIME
+USER_0076,Laki-laki,Kristen,All Segment,Group 3,Group 5,WEEKEND - WEEKEND
+USER_0077,Perempuan,Katolik,All Segment,Group 2,Group 3,WEEKDAY - RESTING TIME
+USER_0078,Laki-laki,Buddha,Minimal,Group 2,Group 4,WEEKEND - WEEKEND
+USER_0079,Perempuan,Agama Lainnya,Emerging Wealth,Group 1,Group 4,WEEKDAY - RESTING TIME
+USER_0080,Perempuan,Buddha,All Segment,Group 3,Group 4,WEEKDAY - WORKING TIME
+USER_0081,Perempuan,Hindu,Working Professionals,Group 5,Group 2,WEEKEND - WEEKEND
+USER_0082,Laki-laki,Kristen,Emerging Wealth,Group 4,Group 5,WEEKDAY - WORKING TIME
+USER_0083,Perempuan,Buddha,Working Professionals,Group 5,Group 4,WEEKDAY - WORKING TIME
+USER_0084,Laki-laki,Agama Lainnya,Working Professionals,Group 2,Group 2,WEEKEND - WEEKEND
+USER_0085,Laki-laki,Konghucu,Wealthy Achievers,Group 2,Group 1,WEEKDAY - RESTING TIME
+USER_0086,Perempuan,Konghucu,Silver Ager,Group 2,Group 3,WEEKEND - WEEKEND
+USER_0087,Perempuan,Kristen,Working Professionals,Group 2,Group 5,WEEKDAY - RESTING TIME
+USER_0088,Perempuan,Konghucu,Wealthy Achievers,Group 4,Group 5,WEEKDAY - WORKING TIME
+USER_0089,Perempuan,Katolik,All Segment,Group 1,Group 3,WEEKDAY - TRAVELING TIME
+USER_0090,Laki-laki,Hindu,Working Professionals,Group 2,Group 1,WEEKEND - WEEKEND
+USER_0091,Laki-laki,Konghucu,Silver Ager,Group 3,Group 2,WEEKDAY - TRAVELING TIME
+USER_0092,Perempuan,Konghucu,Mature High Networth,Group 4,Group 3,WEEKDAY - RESTING TIME
+USER_0093,Laki-laki,Katolik,Young Gen & Early Jobber,Group 2,Group 2,WEEKEND - WEEKEND
+USER_0094,Laki-laki,Hindu,Wealthy Achievers,Group 3,Group 2,WEEKDAY - TRAVELING TIME
+USER_0095,Laki-laki,Buddha,Mature High Networth,Group 2,Group 2,WEEKDAY - TRAVELING TIME
+USER_0096,Laki-laki,Hindu,Wealthy Achievers,Group 1,Group 1,WEEKEND - WEEKEND
+USER_0097,Laki-laki,Islam,Young Gen & Early Jobber,Group 4,Group 1,WEEKDAY - TRAVELING TIME
+USER_0098,Perempuan,Kristen,Silver Ager,Group 1,Group 2,WEEKEND - WEEKEND
+USER_0099,Laki-laki,Kristen,Emerging Wealth,Group 4,Group 4,WEEKDAY - TRAVELING TIME
+USER_0100,Perempuan,Islam,Young Gen & Early Jobber,Group 2,Group 5,WEEKDAY - WORKING TIME
+USER_0100,,Buddha,Mature High Networth,Group 4,Group 2,WEEKDAY - TRAVELING TIME
+USER_0101,Perempuan,,Working Professionals,Group 5,Group 4,WEEKDAY - WORKING TIME
+USER_0103,,,Minimal,Group 4,Group 5,WEEKDAY - TRAVELING TIME
