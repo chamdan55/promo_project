@@ -110,7 +110,11 @@ def main():
     
         table, df = get_arguments()
     
-        datas = get_data(df)
+        if len(df) <= 10000:
+            datas = get_data(df)
+        else:
+            datas = list(df.values)
+        
         if table.upper()=='MASTERUSER':
             sql_insert= insert_to_masteruser()
         elif table.upper()=='MASTERMERCHANT':
@@ -122,12 +126,16 @@ def main():
         
     
         print(f'Inserting {len(df)} data to {table} ... ')
-        for i in range(0, len(datas), 1000):
+        count = 1
+        batch_size = 10000
+        for i in range(0, len(datas), batch_size):
             # Create a cursor and execute the query
             cursor = connection.cursor()
-            cursor.executemany(sql_insert, datas)
+            batch = datas[i:i + batch_size]
+            cursor.executemany(sql_insert, batch)
             connection.commit()
-            print(f'Success inject data at batch: {i+1}')        
+            print(f'Success inject data at batch: {count}')
+            count += 1
 
         cursor.close()
         connection.close()
