@@ -1,104 +1,1001 @@
-USER_ID,GENDER,RELIGION,SEGMENTATION,TOTAL_ASSETS,ACCOUNT_AGE,TRANSACTION_TIME
-USER_0001,Laki-laki,Hindu,Mature High Networth,Group 4,Group 2,WEEKDAY - WORKING TIME
-USER_0002,Laki-laki,Buddha,All Segment,Group 3,Group 4,WEEKEND - WEEKEND
-USER_0003,Perempuan,Hindu,Wealthy Achievers,Group 1,Group 3,WEEKEND - WEEKEND
-USER_0004,Laki-laki,Buddha,Wealthy Achievers,Group 1,Group 3,WEEKDAY - RESTING TIME
-USER_0005,Laki-laki,Katolik,All Segment,Group 4,Group 2,WEEKEND - WEEKEND
-USER_0006,Laki-laki,Buddha,Working Professionals,Group 5,Group 2,WEEKEND - WEEKEND
-USER_0007,Laki-laki,Agama Lainnya,All Segment,Group 5,Group 1,WEEKEND - WEEKEND
-USER_0008,Laki-laki,Islam,Wealthy Achievers,Group 1,Group 2,WEEKDAY - RESTING TIME
-USER_0009,Perempuan,Konghucu,Working Professionals,Group 1,Group 4,WEEKDAY - RESTING TIME
-USER_0010,Laki-laki,Konghucu,All Segment,Group 5,Group 3,WEEKDAY - WORKING TIME
-USER_0011,Laki-laki,Islam,Mature High Networth,Group 2,Group 3,WEEKDAY - WORKING TIME
-USER_0012,Laki-laki,Konghucu,Working Professionals,Group 5,Group 1,WEEKEND - WEEKEND
-USER_0013,Laki-laki,Buddha,Wealthy Achievers,Group 3,Group 3,WEEKDAY - RESTING TIME
-USER_0014,Laki-laki,Agama Lainnya,Young Gen & Early Jobber,Group 2,Group 3,WEEKDAY - RESTING TIME
-USER_0015,Laki-laki,Katolik,Minimal,Group 3,Group 5,WEEKEND - WEEKEND
-USER_0016,Laki-laki,Agama Lainnya,Wealthy Achievers,Group 1,Group 4,WEEKDAY - WORKING TIME
-USER_0017,Perempuan,Konghucu,Emerging Wealth,Group 2,Group 5,WEEKDAY - RESTING TIME
-USER_0018,Laki-laki,Katolik,Minimal,Group 3,Group 3,WEEKDAY - WORKING TIME
-USER_0019,Perempuan,Islam,Wealthy Achievers,Group 3,Group 1,WEEKEND - WEEKEND
-USER_0020,Perempuan,Katolik,Minimal,Group 2,Group 1,WEEKDAY - RESTING TIME
-USER_0021,Laki-laki,Hindu,Silver Ager,Group 4,Group 3,WEEKEND - WEEKEND
-USER_0022,Laki-laki,Kristen,Wealthy Achievers,Group 5,Group 2,WEEKDAY - TRAVELING TIME
-USER_0023,Perempuan,Hindu,Working Professionals,Group 3,Group 5,WEEKEND - WEEKEND
-USER_0024,Perempuan,Islam,Working Professionals,Group 5,Group 3,WEEKEND - WEEKEND
-USER_0025,Perempuan,Konghucu,Silver Ager,Group 5,Group 1,WEEKEND - WEEKEND
-USER_0026,Laki-laki,Konghucu,Mature High Networth,Group 1,Group 1,WEEKDAY - RESTING TIME
-USER_0027,Laki-laki,Katolik,Silver Ager,Group 5,Group 5,WEEKEND - WEEKEND
-USER_0028,Perempuan,Buddha,Silver Ager,Group 3,Group 4,WEEKEND - WEEKEND
-USER_0029,Laki-laki,Agama Lainnya,Minimal,Group 1,Group 3,WEEKDAY - TRAVELING TIME
-USER_0030,Laki-laki,Kristen,All Segment,Group 2,Group 3,WEEKDAY - RESTING TIME
-USER_0031,Perempuan,Buddha,Working Professionals,Group 3,Group 4,WEEKDAY - TRAVELING TIME
-USER_0032,Laki-laki,Islam,All Segment,Group 1,Group 5,WEEKEND - WEEKEND
-USER_0033,Perempuan,Agama Lainnya,Silver Ager,Group 1,Group 5,WEEKDAY - RESTING TIME
-USER_0034,Perempuan,Konghucu,Mature High Networth,Group 5,Group 1,WEEKDAY - TRAVELING TIME
-USER_0035,Perempuan,Katolik,Working Professionals,Group 2,Group 4,WEEKEND - WEEKEND
-USER_0036,Laki-laki,Agama Lainnya,Wealthy Achievers,Group 3,Group 5,WEEKDAY - WORKING TIME
-USER_0037,Perempuan,Konghucu,Wealthy Achievers,Group 3,Group 2,WEEKDAY - TRAVELING TIME
-USER_0038,Laki-laki,Buddha,Wealthy Achievers,Group 5,Group 3,WEEKDAY - RESTING TIME
-USER_0039,Perempuan,Buddha,Minimal,Group 2,Group 1,WEEKDAY - TRAVELING TIME
-USER_0040,Laki-laki,Kristen,Emerging Wealth,Group 3,Group 4,WEEKDAY - TRAVELING TIME
-USER_0041,Perempuan,Kristen,Silver Ager,Group 2,Group 1,WEEKDAY - TRAVELING TIME
-USER_0042,Perempuan,Katolik,Emerging Wealth,Group 3,Group 5,WEEKDAY - WORKING TIME
-USER_0043,Laki-laki,Agama Lainnya,Young Gen & Early Jobber,Group 5,Group 5,WEEKDAY - RESTING TIME
-USER_0044,Laki-laki,Kristen,Minimal,Group 4,Group 2,WEEKDAY - RESTING TIME
-USER_0045,Laki-laki,Buddha,Wealthy Achievers,Group 3,Group 3,WEEKDAY - RESTING TIME
-USER_0046,Laki-laki,Agama Lainnya,Working Professionals,Group 1,Group 4,WEEKEND - WEEKEND
-USER_0047,Perempuan,Buddha,Minimal,Group 1,Group 1,WEEKDAY - RESTING TIME
-USER_0048,Laki-laki,Islam,Working Professionals,Group 4,Group 3,WEEKDAY - RESTING TIME
-USER_0049,Laki-laki,Buddha,All Segment,Group 3,Group 5,WEEKDAY - WORKING TIME
-USER_0050,Laki-laki,Katolik,All Segment,Group 1,Group 3,WEEKEND - WEEKEND
-USER_0051,Perempuan,Hindu,Working Professionals,Group 1,Group 1,WEEKEND - WEEKEND
-USER_0052,Perempuan,Islam,Wealthy Achievers,Group 3,Group 3,WEEKDAY - TRAVELING TIME
-USER_0053,Perempuan,Islam,Emerging Wealth,Group 2,Group 5,WEEKEND - WEEKEND
-USER_0054,Perempuan,Katolik,Silver Ager,Group 3,Group 3,WEEKEND - WEEKEND
-USER_0055,Laki-laki,Agama Lainnya,Minimal,Group 2,Group 4,WEEKDAY - WORKING TIME
-USER_0056,Perempuan,Agama Lainnya,Minimal,Group 4,Group 3,WEEKDAY - RESTING TIME
-USER_0057,Perempuan,Katolik,Wealthy Achievers,Group 5,Group 4,WEEKEND - WEEKEND
-USER_0058,Laki-laki,Kristen,Silver Ager,Group 4,Group 3,WEEKEND - WEEKEND
-USER_0059,Perempuan,Islam,All Segment,Group 5,Group 5,WEEKDAY - WORKING TIME
-USER_0060,Laki-laki,Kristen,Emerging Wealth,Group 1,Group 2,WEEKEND - WEEKEND
-USER_0061,Laki-laki,Buddha,Silver Ager,Group 1,Group 2,WEEKEND - WEEKEND
-USER_0062,Laki-laki,Islam,All Segment,Group 1,Group 4,WEEKDAY - WORKING TIME
-USER_0063,Laki-laki,Islam,Silver Ager,Group 2,Group 4,WEEKDAY - TRAVELING TIME
-USER_0064,Perempuan,Konghucu,Young Gen & Early Jobber,Group 5,Group 2,WEEKDAY - TRAVELING TIME
-USER_0065,Perempuan,Hindu,Minimal,Group 1,Group 5,WEEKEND - WEEKEND
-USER_0066,Perempuan,Agama Lainnya,Young Gen & Early Jobber,Group 3,Group 5,WEEKEND - WEEKEND
-USER_0067,Laki-laki,Islam,Silver Ager,Group 5,Group 3,WEEKDAY - RESTING TIME
-USER_0068,Perempuan,Agama Lainnya,Minimal,Group 5,Group 4,WEEKEND - WEEKEND
-USER_0069,Laki-laki,Buddha,Emerging Wealth,Group 2,Group 5,WEEKDAY - RESTING TIME
-USER_0070,Laki-laki,Agama Lainnya,Wealthy Achievers,Group 4,Group 1,WEEKDAY - TRAVELING TIME
-USER_0071,Laki-laki,Kristen,Young Gen & Early Jobber,Group 2,Group 3,WEEKEND - WEEKEND
-USER_0072,Perempuan,Kristen,Wealthy Achievers,Group 1,Group 3,WEEKEND - WEEKEND
-USER_0073,Perempuan,Konghucu,All Segment,Group 3,Group 2,WEEKDAY - WORKING TIME
-USER_0074,Perempuan,Hindu,All Segment,Group 3,Group 4,WEEKEND - WEEKEND
-USER_0075,Laki-laki,Buddha,Mature High Networth,Group 1,Group 5,WEEKDAY - TRAVELING TIME
-USER_0076,Laki-laki,Kristen,All Segment,Group 3,Group 5,WEEKEND - WEEKEND
-USER_0077,Perempuan,Katolik,All Segment,Group 2,Group 3,WEEKDAY - RESTING TIME
-USER_0078,Laki-laki,Buddha,Minimal,Group 2,Group 4,WEEKEND - WEEKEND
-USER_0079,Perempuan,Agama Lainnya,Emerging Wealth,Group 1,Group 4,WEEKDAY - RESTING TIME
-USER_0080,Perempuan,Buddha,All Segment,Group 3,Group 4,WEEKDAY - WORKING TIME
-USER_0081,Perempuan,Hindu,Working Professionals,Group 5,Group 2,WEEKEND - WEEKEND
-USER_0082,Laki-laki,Kristen,Emerging Wealth,Group 4,Group 5,WEEKDAY - WORKING TIME
-USER_0083,Perempuan,Buddha,Working Professionals,Group 5,Group 4,WEEKDAY - WORKING TIME
-USER_0084,Laki-laki,Agama Lainnya,Working Professionals,Group 2,Group 2,WEEKEND - WEEKEND
-USER_0085,Laki-laki,Konghucu,Wealthy Achievers,Group 2,Group 1,WEEKDAY - RESTING TIME
-USER_0086,Perempuan,Konghucu,Silver Ager,Group 2,Group 3,WEEKEND - WEEKEND
-USER_0087,Perempuan,Kristen,Working Professionals,Group 2,Group 5,WEEKDAY - RESTING TIME
-USER_0088,Perempuan,Konghucu,Wealthy Achievers,Group 4,Group 5,WEEKDAY - WORKING TIME
-USER_0089,Perempuan,Katolik,All Segment,Group 1,Group 3,WEEKDAY - TRAVELING TIME
-USER_0090,Laki-laki,Hindu,Working Professionals,Group 2,Group 1,WEEKEND - WEEKEND
-USER_0091,Laki-laki,Konghucu,Silver Ager,Group 3,Group 2,WEEKDAY - TRAVELING TIME
-USER_0092,Perempuan,Konghucu,Mature High Networth,Group 4,Group 3,WEEKDAY - RESTING TIME
-USER_0093,Laki-laki,Katolik,Young Gen & Early Jobber,Group 2,Group 2,WEEKEND - WEEKEND
-USER_0094,Laki-laki,Hindu,Wealthy Achievers,Group 3,Group 2,WEEKDAY - TRAVELING TIME
-USER_0095,Laki-laki,Buddha,Mature High Networth,Group 2,Group 2,WEEKDAY - TRAVELING TIME
-USER_0096,Laki-laki,Hindu,Wealthy Achievers,Group 1,Group 1,WEEKEND - WEEKEND
-USER_0097,Laki-laki,Islam,Young Gen & Early Jobber,Group 4,Group 1,WEEKDAY - TRAVELING TIME
-USER_0098,Perempuan,Kristen,Silver Ager,Group 1,Group 2,WEEKEND - WEEKEND
-USER_0099,Laki-laki,Kristen,Emerging Wealth,Group 4,Group 4,WEEKDAY - TRAVELING TIME
-USER_0100,Perempuan,Islam,Young Gen & Early Jobber,Group 2,Group 5,WEEKDAY - WORKING TIME
-USER_0100,,Buddha,Mature High Networth,Group 4,Group 2,WEEKDAY - TRAVELING TIME
-USER_0101,Perempuan,,Working Professionals,Group 5,Group 4,WEEKDAY - WORKING TIME
-USER_0103,,,Minimal,Group 4,Group 5,WEEKDAY - TRAVELING TIME
+ID,USER_ID,GENDER,RELIGION,TOTAL_ASSETS,ACCOUNT_AGE,TRANSACTION_TIME,SEGMENTATION,UPDATE_BY,UPDATED_TIME,CREATED_BY,CREATED_TIME
+6FCT6AtPkGDDmZFDFNh3-,USER_0000,M,Islam,5,5,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+mnzFZFoC8UtMZQwZ7p8-7,USER_0001,M,Konghucu,1,2,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ADO0Z9xqfDb_cozpvw-ZO,USER_0002,F,Christian,2,3,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+rS3cddAF_Z24FXk_JXgEf,USER_0003,M,Konghucu,3,5,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+dM_4KuNqMLRHV_tcx3J30,USER_0004,M,Konghucu,1,4,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+hbqC4Wo5Sj4GF2uYjtUGo,USER_0005,M,Hindu,4,4,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+6OHLc0-SImFAdhvF172Gz,USER_0006,M,Islam,4,2,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+mf156GB5Qcv9KNEx44i-M,USER_0007,M,Islam,5,4,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+9lz666p3rTONum0xk0pu3,USER_0008,F,Others,3,2,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+DjlYqavXU9cxIj9gf8zdQ,USER_0009,M,Catholic,2,2,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+92K4OEmpZ14HS8AhJFdq-,USER_0010,M,Christian,5,4,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+UgykbSEvnEsFr-tdAOXof,USER_0011,M,Christian,5,4,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ZnWVwWMQdoE1PRcXeEjN1,USER_0012,M,Others,2,1,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-ErjszPX92RKcbYps58SV,USER_0013,M,Hindu,2,5,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+eE6UIYXvV9I6Kn2R6-gKa,USER_0014,M,Christian,4,2,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+muLPr1UGegc277Ra-LY34,USER_0015,M,Islam,5,4,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+TciBvrNRaWRyC7R_Ij2DD,USER_0016,F,Others,1,5,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+h3v4QpjgHOx2CPXUGRF68,USER_0017,M,Others,1,4,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+rNxOWfeV7cuH09311oBc4,USER_0018,F,Hindu,5,4,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+9nlr9tv-1naXwzm9wwcj9,USER_0019,F,Christian,2,1,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+prew2bNB0nUA4O8xOxX8D,USER_0020,M,Hindu,3,2,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+OgPMpO_etnhejQFFDROyE,USER_0021,M,Christian,2,2,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ORQmRryiI7qdTQVx-6iXG,USER_0022,F,Others,2,3,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4hIxlLSNJUrfezs5Bz4Cu,USER_0023,F,Others,3,1,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+bxh192iqYYE580Ez_c_Vr,USER_0024,F,Christian,2,5,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fvzH1EW2mIJQm73pDv8aJ,USER_0025,M,Catholic,3,1,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+YEJSW9nyGCYjtRCuS0ss9,USER_0026,M,Others,5,5,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+aawbqRhwWDE3ciAHP4JC7,USER_0027,F,Christian,3,2,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+rWzvswIo5Zt55QTbOmYbQ,USER_0028,M,Others,1,3,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+SJ3uf9-4ZO8fG6lsUA72Z,USER_0029,M,Hindu,3,3,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+SGOMOlO-l6eDDqRI5qb1-,USER_0030,F,Islam,2,2,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Dl88ecPpHVz-TqdMsKMS_,USER_0031,M,Catholic,5,4,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+a5_of8OajMB2G6g2TH4Q0,USER_0032,F,Others,3,1,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Z9L4KTKT5T0nfU0QJ3NXj,USER_0033,F,Christian,2,3,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+m2heRm1iOQTMzsM0Q60RX,USER_0034,F,Christian,3,4,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wRMBxyUSa8quBHuuNlmPM,USER_0035,M,Hindu,5,5,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+MauVNfpEdhHE5iFFvMNc9,USER_0036,F,Catholic,5,3,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+B-8TZ780q6_afEHtEboh6,USER_0037,M,Others,1,5,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+IyvCrdWrhd9AJ9DwmPlVL,USER_0038,F,Christian,5,4,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+blw8xU_Xkum0sl8aVFiBP,USER_0039,M,Islam,2,5,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+16sXud1WftZq5CzugLDsg,USER_0040,F,Konghucu,5,4,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+TsT6Maqa_9zv5KVTQjM4-,USER_0041,F,Others,5,5,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+5xM98uTPeDm6TgNjDOFnr,USER_0042,M,Islam,2,1,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+51mnEIe8glSyDcAf14YSy,USER_0043,M,Christian,2,3,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+VI7BeXkFgZTYl-f_xfm2m,USER_0044,M,Islam,5,3,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fezIoIel97nTPks9DO2IX,USER_0045,M,Catholic,5,4,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Aju2Rs9Os0MsMTDm7TWrj,USER_0046,F,Others,3,5,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+aKOGr8UVJXUXQswjg7trE,USER_0047,M,Others,5,2,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+FZbPe0wCApFENT84O0l60,USER_0048,M,Christian,1,3,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+LG8We7s7JGD3NzOPGw8D2,USER_0049,M,Hindu,1,5,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ovKrQ_n8EUSrLB7PxxhG3,USER_0050,F,Catholic,1,5,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+DuKhfnBtvtQ6lP9jMZDGK,USER_0051,F,Islam,1,1,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+U2cvih-gr-0Kfj2o8AHlu,USER_0052,F,Christian,5,2,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+V-F3Bdzk5RMYOUABKprQp,USER_0053,F,Catholic,3,3,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Kfhcf5NhQj-yKLb29nY3B,USER_0054,M,Islam,2,1,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+o7X626zI2KVC7uDl1PaQk,USER_0055,F,Christian,5,2,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+rSfrXiwoP-vQsQmJlAt2T,USER_0056,F,Konghucu,4,3,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+c_yxeqqbUGXJhNEZ5NDNS,USER_0057,M,Buddha,5,1,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-josfxFFoZt43BKK1SOFL,USER_0058,F,Hindu,1,2,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4CCbZl2CxJBFKiiay73Tg,USER_0059,M,Islam,4,3,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+6OVp2fBcPjzbCnUJ58kqM,USER_0060,M,Konghucu,5,2,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+6tcZilM4xyFkFGnDFyyxw,USER_0061,M,Islam,3,5,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Vmxq4qmhtItmqoHj4l4sC,USER_0062,M,Buddha,3,4,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+YPqXq_6wjnWJMFSCt2PrI,USER_0063,F,Buddha,4,4,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+leUtoeYYG00vRMI2ZoRbO,USER_0064,F,Others,2,5,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+UqlkqAxMbVH5CVsABPdwf,USER_0065,F,Catholic,4,2,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+gmrsLyTYP0S3NASgli2nO,USER_0066,M,Hindu,3,5,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+J8HIWH0hBQUX1SxnBNil6,USER_0067,F,Hindu,4,4,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+dYiR1Flq3lwGmColF_kfy,USER_0068,M,Islam,1,4,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+RrLWFtYGkNveDCjT7-56t,USER_0069,M,Buddha,1,2,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+MNVVJIL0APGJmIYgY5Mb-,USER_0070,M,Hindu,2,4,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+vy6wAxqkfaykYk6ADvj1A,USER_0071,F,Christian,4,5,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+cwN6rQMJe_QvJTqDauT-I,USER_0072,F,Hindu,4,2,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+BWK4QNFLWgtdNqaJTt9CL,USER_0073,F,Islam,4,5,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fmC1GSaZuumMJoEYPfQBq,USER_0074,M,Konghucu,4,2,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+NjVVmmbkpDudQeMS2y22b,USER_0075,M,Others,2,4,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fIoEYt8HwL6jTlTCBG__z,USER_0076,F,Others,3,3,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+_OX0Y6aNhP7icHhkOuPJ6,USER_0077,M,Konghucu,5,2,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4_I1Obk3_ZrKtQLD6YR2q,USER_0078,F,Hindu,2,2,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+GQBul99swqL1Q2MbRQnft,USER_0079,F,Catholic,3,3,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+gJ_WYWFtPrXKvKbiuqYJc,USER_0080,F,Buddha,3,4,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+WY3psCgKFa0nSXrx6dV9l,USER_0081,M,Konghucu,3,5,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wvqvIVL_YgboX5CnU0zHW,USER_0082,F,Islam,4,1,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+MBqjn_qoqCE9KlDg3h_1a,USER_0083,M,Islam,2,3,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+QcQfIE4oFLVyfdnpW7A4z,USER_0084,M,Buddha,3,1,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+o8YOYY9LCV4FA1_ExzEyw,USER_0085,F,Others,5,4,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+eSAQZJGmdPC7nw1SEYTrz,USER_0086,F,Buddha,5,2,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+244pNejRGJ1gyimpBANL-,USER_0087,F,Buddha,1,2,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+SM8JkivO4lFpzj6XqC9_E,USER_0088,F,Konghucu,3,4,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+VP3ejLEIs49rZo8OgWWjl,USER_0089,M,Islam,2,5,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+eYI1cFpqGtkRD0CZMUMkE,USER_0090,M,Buddha,4,5,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+NHyIJZslaDXkCqIhC97-e,USER_0091,F,Konghucu,1,4,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+7YqaSo1HsHJfQW8OfMmCR,USER_0092,M,Buddha,3,4,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+vKdoCVX8ph7nMbueKUa6F,USER_0093,M,Islam,4,4,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Gjqu9oy2e7yVG4Wo1JVyC,USER_0094,M,Islam,2,4,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ucSZ_l1HzVGtnSgcjMjQe,USER_0095,M,Catholic,2,4,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+9Ml-vOsOdQw1oQprjCg7s,USER_0096,M,Hindu,1,4,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+IyDM5HwTqJX2tE7G6YLyq,USER_0097,F,Christian,1,2,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+9eM562V2qym1RZ3FKXBhR,USER_0098,M,Islam,3,1,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+rG1IkzxQ2qDMJmhiBya0_,USER_0099,F,Christian,4,5,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+c_b_0pxuXRXShI2G0Ztiv,USER_0100,F,Catholic,5,1,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+TYugCSwnUB29LMxHp6I1U,USER_0101,F,Hindu,4,2,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+CG4W14UhEDpyDigeeX0lK,USER_0102,F,Konghucu,2,3,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wq1-jWM16jBEOA32LhBhT,USER_0103,M,Hindu,2,1,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+QNsrWU1wdKkX_pRerA_6Q,USER_0104,M,Hindu,3,3,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+xPQjnyB5aj17pJKhsp0Qo,USER_0105,F,Konghucu,5,2,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Jd864RAHBlgHv-2Em58S-,USER_0106,F,Catholic,3,5,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+bI-qpYjCJg6aolNaz-J-s,USER_0107,M,Buddha,2,3,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+JNd364j5OVdYYll_KRRXu,USER_0108,F,Hindu,2,2,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+OaPQUwHdfUJlfCqUo1bvx,USER_0109,F,Hindu,4,4,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jPlAeWSJIDqcdy4XUMjd2,USER_0110,M,Catholic,5,5,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+tvPjVn2ff05o8kmE0hepV,USER_0111,F,Buddha,4,4,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+aV9UyfZQ8bobDjhQAfuwM,USER_0112,M,Hindu,4,5,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+m3i1Zij0uteXAaR9BBJh7,USER_0113,F,Hindu,3,5,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+oVxJUSFveHNutO47k2jdS,USER_0114,M,Buddha,4,1,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+l85-VhDr7qC3ePEp0xUSv,USER_0115,M,Islam,1,5,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+alq9uQcrtnROzHZ9Eh47E,USER_0116,F,Others,1,1,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+22ttfN9Uea2IBHvtQg5CR,USER_0117,M,Konghucu,4,3,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+oKvy_lf3jysjePTqyPqMh,USER_0118,M,Islam,5,5,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+M_Z2b1Z1zQJjHiDyw_Ooj,USER_0119,F,Others,4,3,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+zDuBeXL53I4WPRMD47cAS,USER_0120,M,Konghucu,2,5,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+2CR023mgvCnETDcBg7Gtr,USER_0121,M,Konghucu,2,1,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+zvYEKz1pjtHjA6tTcGd0m,USER_0122,F,Others,5,4,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+k0HEfWSJUcF9azwyQtiqn,USER_0123,F,Hindu,3,5,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+9StA1IeK_NLyEz1i1Y_p7,USER_0124,M,Konghucu,1,2,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+3l5E8dShUfmIdYfCpD36g,USER_0125,M,Others,1,4,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+aragTqPz8mRaGXvvqiCIk,USER_0126,F,Christian,3,1,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+iq6LSZl49dVQFRQ3eWfcs,USER_0127,F,Buddha,4,2,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Us2Alw5AutP0E5pK7CC_K,USER_0128,M,Buddha,5,3,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+C2kqGu1hOyu5-Da_lHJ8y,USER_0129,M,Christian,4,1,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Rwqnr2WPRJfJ5SJKNEjcl,USER_0130,M,Buddha,3,4,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Nsu4no7vGQ6TOOWc7F_S_,USER_0131,M,Catholic,5,3,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+RB_wfK9dlkKneruK-_BKz,USER_0132,M,Others,1,3,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+m_YMMqWR488AKBF-94-l8,USER_0133,F,Buddha,1,1,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Evn7qBUPLEvubotGmSEMJ,USER_0134,M,Buddha,4,4,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+JvZYJ4lVw8beJYRAWBhMl,USER_0135,M,Buddha,2,1,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+j88czXxg8QbIlSDiLSufp,USER_0136,M,Konghucu,3,2,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fXkOPp97oCeKnFOcYQSRp,USER_0137,F,Islam,3,2,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+lv4MyZe2poeYQNsK50ktb,USER_0138,M,Catholic,4,5,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+hR-K0XuNn9a2yc5z4D83q,USER_0139,F,Buddha,3,3,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+SH3vNSKCn4dpqo91JhTD2,USER_0140,F,Catholic,1,5,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+vk1vA_VrS4hmRYP5LZU0J,USER_0141,M,Konghucu,4,4,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fUKFLT3b62TEOJy63_eV0,USER_0142,M,Catholic,1,2,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+BR3fvwhUAUKYLjJvFnPHv,USER_0143,F,Catholic,5,5,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Sxan_Ttg8d7LhhZeR9-5B,USER_0144,F,Christian,5,2,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+7T86UEdHqAmhuuuQSDBIp,USER_0145,F,Konghucu,2,2,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+xnl5OPP4AODH_G_wncqAs,USER_0146,F,Buddha,3,2,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+eEUBK2B1dHtg82_52ItRt,USER_0147,F,Islam,5,1,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XK8MuwkHKkJOE--ZIXYq0,USER_0148,M,Islam,3,5,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+g093S84Ug_5y1BTfvoroz,USER_0149,M,Others,1,3,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+qOWTFrYtbPoFJWX4gNdgz,USER_0150,M,Islam,4,5,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XjZ7dQWm4y0TI8rXh6A4K,USER_0151,M,Islam,5,3,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+g0EpqTCQ9BQcgSTFYJkPQ,USER_0152,F,Buddha,4,5,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+VGtZkDPdTK3fSLx_CSaM2,USER_0153,M,Islam,5,5,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+rD-paXAunKS-MJtcPJwn9,USER_0154,M,Konghucu,3,2,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+xMNVhpiO814h4dBmGXLrM,USER_0155,M,Konghucu,5,3,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+X5LzRd64vY6booizYswhl,USER_0156,M,Catholic,5,3,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+7omvpO87dSroIDp0fDbSO,USER_0157,M,Others,1,3,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+PIi21CN8YvNXfjcbKwGql,USER_0158,M,Christian,2,5,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+uxnWCkCxEfUiMAJLultZ9,USER_0159,M,Hindu,1,3,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+sa3vVvZeQITG0uR2f5D-E,USER_0160,M,Islam,4,5,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+7ljSl0UpxzwAMwclfH83f,USER_0161,M,Hindu,3,1,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fmJJJKNBWSAt-Y_uQ3Uis,USER_0162,F,Hindu,3,2,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+92rwKDnCxNnZPbtm0f7ny,USER_0163,M,Hindu,5,4,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+NH5QSDjIc0B8jPdZWiISz,USER_0164,M,Catholic,3,1,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+KhJg3GWTwujSDVLMoWAB-,USER_0165,F,Konghucu,2,3,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+c9jb0ydRDvOuQW4q1tiL_,USER_0166,F,Islam,2,2,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+tvleER0lRieQRKA6VagRK,USER_0167,M,Buddha,5,2,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+GOz8cXzfQIeOW4BVTbX6n,USER_0168,M,Catholic,5,2,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+J7gE630TbqioD6pVCRQaK,USER_0169,F,Others,4,2,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+9yBSmhQTEoxGHowi7lwBf,USER_0170,M,Konghucu,5,3,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+aaejjD7QCMHOjkHl927uc,USER_0171,F,Others,1,2,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XeM-aZdxLMzRy-09pZQ7F,USER_0172,F,Buddha,1,4,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+o5flj9R4lAjzado426AY_,USER_0173,M,Others,1,4,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+2xj1OSPi-U9iEh1LKFOKb,USER_0174,M,Konghucu,2,2,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+BqU8eVq6llrkvCCbd5yJv,USER_0175,M,Islam,3,5,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+TLcc4OnjXUvkFTs9ktchh,USER_0176,F,Catholic,4,3,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+H9wIRPtkL2g25XyxHcVVc,USER_0177,F,Hindu,5,4,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+NQ9aOV-DV1L7u-56ldkYu,USER_0178,F,Catholic,4,4,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+P4q13x4rBJMMbp9SHGItj,USER_0179,F,Catholic,2,4,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+AFwIgeXOHOgfEA_6I6L93,USER_0180,F,Islam,5,1,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+vvZbW3jqB2E0XbYpcQ3mo,USER_0181,M,Hindu,5,1,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+lzKBDCg8LZz8OWru6Vhg_,USER_0182,M,Hindu,2,4,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+AYy1XjTepvW1Se0QxsGkQ,USER_0183,M,Christian,3,5,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+iSiYycQaILmbyD2sqZRGH,USER_0184,F,Christian,5,3,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-GDbF5Fd9VWU4d-p-YsUi,USER_0185,F,Konghucu,3,3,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+CY4LyZdxSUL95RyF2xDUT,USER_0186,M,Buddha,2,4,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wDLiJbgk3LOYFquF8ghgj,USER_0187,M,Christian,4,4,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+2TOVyWQY9xdQdqP_KEpb_,USER_0188,M,Others,5,3,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XgTLkf-0jWuCfNrca7NXN,USER_0189,M,Islam,3,5,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+8y3wfOgdfFAAUbG09F-6a,USER_0190,F,Catholic,5,1,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+7NnAePlb5amDyeGwakB4n,USER_0191,M,Others,3,1,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+MzkHClGyz2nJd3Nk5WRsL,USER_0192,F,Hindu,5,4,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ivGKSBSsa6qUHejSZmbfG,USER_0193,M,Catholic,5,3,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+WfiiI7tKz7XNXPCziDqmw,USER_0194,F,Islam,5,1,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ZEXnnojs000ev2b0hVXZG,USER_0195,F,Others,4,5,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+5sltBOD_TK6SfHlL-jW93,USER_0196,M,Catholic,5,4,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jBe5BzCs5eNxx_JzFflQY,USER_0197,M,Hindu,3,2,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+taYxUo7II5oZ5sPDmALKE,USER_0198,F,Christian,4,4,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+oNeV9jH1PXOgx6EJZTUj2,USER_0199,M,Others,1,2,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+I7ymLn_bQN2g60XHgg84X,USER_0200,M,Buddha,3,4,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+zIuC_H2NG_QflxPFQekwI,USER_0201,M,Others,3,3,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+IMIK34TApn2TrV9yS7gGZ,USER_0202,M,Hindu,1,3,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+L6fY7NOgkLohbgl-lvnzs,USER_0203,M,Others,4,3,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+FyRehVhMeYllpjuICxXiP,USER_0204,M,Others,5,3,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+956hv1weiZ-vEI23dOO2v,USER_0205,F,Hindu,3,5,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+EIL1Cgz2lFdwdCp-mr4ZU,USER_0206,F,Hindu,1,5,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+EuUh4_ND40A3CojLYW6kd,USER_0207,F,Konghucu,5,2,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+AKpxjtB-zMEDqlQP60owY,USER_0208,M,Konghucu,4,5,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jKtkuDfGWRrSSIQmy-gaY,USER_0209,F,Hindu,3,4,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+eAPA-v0PhyK_mHsBEF7Yz,USER_0210,M,Islam,5,3,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XATEeF8MEaT6AUXG2U_YG,USER_0211,M,Hindu,5,1,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+5hOgLKjoy8yo-ruGRPlHW,USER_0212,F,Konghucu,2,1,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+WL42NKxtb_MOvwhI43VCJ,USER_0213,M,Others,1,1,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+aEbIFxKrnwYiFWJNQnpR9,USER_0214,F,Konghucu,5,4,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-jpOv_VNT-uDbIdr8ovPY,USER_0215,F,Catholic,4,1,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+j8iK5AN_Sbr-fIge2Hl7Z,USER_0216,F,Islam,2,1,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+E0WDRk0D90UtwxfezQ3k3,USER_0217,F,Christian,5,2,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+lI7q4xEuuGHcfFZrzAI9Q,USER_0218,F,Catholic,5,4,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+JC8yub2onnIJQS5ERRyS5,USER_0219,F,Konghucu,4,4,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jG414hr1JpenaI7hM_Fya,USER_0220,M,Others,2,1,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+CdCoFJ7FFM1f4shJhl2WW,USER_0221,M,Catholic,2,4,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+kvVR5OWPeFA8v1ykUpJqA,USER_0222,F,Catholic,1,2,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+EvSPSHB4eLm3b3ekLBF6b,USER_0223,M,Catholic,5,2,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+sZOjQPpnX1_5IqsZ1liel,USER_0224,M,Islam,1,3,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Iin_vMnkcidjXx7fNNVCg,USER_0225,M,Christian,2,2,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+HZ8NL5veQJ2KAdtbIQyes,USER_0226,F,Others,1,3,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+WBb2MVY8hWJdT6pM3_MKL,USER_0227,M,Christian,4,1,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+MWZwlFnuyELUkVDZcf8Cw,USER_0228,M,Hindu,3,3,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+b8nJybJjZWh57gIJLFb08,USER_0229,F,Konghucu,4,3,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+cvKBQ6pONhDFpaEAjeeT4,USER_0230,M,Buddha,2,1,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wjeHnBqjjss5dwWrbwN7z,USER_0231,M,Islam,4,3,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Bi23oXzhwRmYsHfDYLWRt,USER_0232,M,Christian,2,2,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-KuRWT1TGWshrgsLkpCC2,USER_0233,M,Konghucu,4,1,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+B55DqX4UnnrNDipMLFKm-,USER_0234,M,Konghucu,5,4,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XVi4GRaM0b6egquDz46Kw,USER_0235,M,Islam,5,3,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+zv4RLTCBEmgsn_0FYuapx,USER_0236,M,Islam,4,2,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jT_S2DSBOsswKe0rW5i79,USER_0237,F,Konghucu,1,4,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+8OIVLw-Yv9oZE2xDbT1sC,USER_0238,M,Hindu,2,1,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+OegeQtzXcWEqNw8yVOTzC,USER_0239,M,Christian,5,1,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+zxYGk-W_XfeVs73ZfkCMO,USER_0240,M,Buddha,2,1,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+8m_qxEc1VHYpbq3P0GO7l,USER_0241,M,Buddha,5,2,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wE6N3QPs3RWrjSqyU8daZ,USER_0242,F,Buddha,3,4,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jbGbJH0su03oP7vUXEbdF,USER_0243,F,Catholic,4,1,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+VAS2q4iJIMKytic799VV0,USER_0244,F,Christian,5,2,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+nri3sCyH32jrNTd2hXMRA,USER_0245,M,Catholic,4,5,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+mZdMVKOT5cMSTsu8S2pmF,USER_0246,F,Catholic,3,2,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+hXOrUEPtF0taA670aGVBi,USER_0247,M,Konghucu,2,5,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+5B8jxBGNfGAz__Q0FFyJm,USER_0248,F,Catholic,4,4,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+qguOVcARvX9TBmOuujexC,USER_0249,F,Others,5,1,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+uZEja6BX0Lzi-06lPhsg1,USER_0250,M,Hindu,3,1,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4gyzyxHBXAGsNGrNYCUSq,USER_0251,F,Hindu,5,3,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+hGKRDfEFJW8qHGJ9e10Y9,USER_0252,F,Islam,3,1,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+soLQshwZiz_Q444MjVPru,USER_0253,F,Islam,3,4,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+rZWDYAb5PSe8_Q5QxIoNl,USER_0254,M,Christian,5,2,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+yIJ0hOMAzspcpLYrXd_87,USER_0255,M,Christian,4,4,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+qr0yko1wMlrAKqRJN6y2H,USER_0256,F,Others,2,1,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4mWHpsIyGXJ6goL__Aa6l,USER_0257,M,Hindu,2,2,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XHKsCCFvgZL1gwtBrxRpA,USER_0258,M,Islam,3,4,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+KX32RohgafiXMYcKrKNkd,USER_0259,M,Konghucu,5,1,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+scMSSG6i14howIpqfdXLc,USER_0260,F,Islam,3,1,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+zdZ5HuiNjieG-QnHl_fDb,USER_0261,M,Catholic,2,1,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+g75z_HWnFQGqOs_4KFjkA,USER_0262,F,Buddha,3,3,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+iT9TELNs_o7OLnpQP1mrk,USER_0263,M,Konghucu,3,3,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+7_OhOV2Y0_iyKfoHsPr6C,USER_0264,M,Buddha,2,3,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+5XG6jFm01EVcPGYMS33m5,USER_0265,F,Buddha,4,2,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ERyriRarRAkHT_5vFnznV,USER_0266,F,Hindu,3,4,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ubhnxd5C3dwFCF36c2HL4,USER_0267,M,Buddha,4,2,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+iYvb5tNl9lnwOTaXLCbmC,USER_0268,F,Buddha,3,2,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jZWPg44oEZdygpwkGXzOM,USER_0269,F,Catholic,5,1,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+sU8RReGwOH7MkJarw1Rf3,USER_0270,M,Christian,3,5,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Xe-7MH6SWxJNAOe91N0gF,USER_0271,F,Others,3,5,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+_0F0txgYGBwuvQrLL6rfa,USER_0272,M,Hindu,1,1,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+AiECaimENpQk0QoyhMzwM,USER_0273,M,Islam,5,5,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+eZ2G50z9Z9c3gb26xpXdN,USER_0274,F,Catholic,5,2,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+OcTC7kRzIkHmESxBINC93,USER_0275,M,Buddha,4,4,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XPXQv8a_SCeUSRMjhtI0z,USER_0276,M,Islam,4,3,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+unhfB4mNexWPp5iZVhDGn,USER_0277,M,Catholic,3,2,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+qq7W3QZ3HH0Q1YweblHFO,USER_0278,F,Konghucu,2,2,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+6M7PKIf-7JdsFIaEIpCNT,USER_0279,F,Konghucu,3,4,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+kwS8KvkVMVcGYu9-AgkAm,USER_0280,M,Hindu,1,5,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+a9YJ1Sp1Oit0QsFyUxRQF,USER_0281,F,Buddha,3,4,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4Z7cnZLkeK6NIyn9B6buJ,USER_0282,M,Hindu,1,2,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+lw9Yjxn66HrXiEMOVo5ZV,USER_0283,F,Konghucu,3,1,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+grmQfvgFTKaaQ8PolQ2hN,USER_0284,F,Catholic,4,1,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ghL5r6s3NqVY9ZMKCaeqk,USER_0285,F,Islam,3,2,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+tg2lnElShWWHP6dd4UgA4,USER_0286,M,Christian,4,1,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fPkn38FHzy6z0mxvYTKG7,USER_0287,M,Buddha,2,5,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+UnbsNND1nJAoVY8GreWg4,USER_0288,F,Hindu,2,4,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+iHMTDm5_o4wY-M4VvVSqw,USER_0289,F,Islam,5,3,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Ym9VzsJd2CEgPxOcQso53,USER_0290,M,Islam,3,4,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+1M8yol3YA-3j1BGUq7wYt,USER_0291,M,Christian,5,3,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+6acEdgPnsciZgFYEq_9Kn,USER_0292,F,Catholic,3,2,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+LJNw7rmGa9-juhTXmDRz6,USER_0293,M,Christian,2,2,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+5s6l-15-Ivx8nS2pJs6Ow,USER_0294,F,Others,1,3,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+npjGYlOGb6qIYdxJVFgQN,USER_0295,M,Christian,5,1,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+7Dl1OI0IFCL2FZ1f02sWw,USER_0296,F,Others,5,2,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Kp-XkGYjMQFew11i25THw,USER_0297,F,Catholic,2,5,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+HWlEz22Xbo85EIHF7slSf,USER_0298,M,Catholic,2,5,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+cS4kIdddw3gmrYo41q2SI,USER_0299,M,Catholic,1,5,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Qimkp-JI01AmNV2ty-ukc,USER_0300,M,Islam,5,5,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+8WnGhGYFBywc1mJIalDrf,USER_0301,M,Islam,2,3,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+a4WTVLgVjgsYCSHmfywOY,USER_0302,M,Buddha,2,1,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+vOKO_7Di9j5mbH4kG_cpI,USER_0303,F,Konghucu,1,3,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+srZ0bxBnKxetOiD2pSgrk,USER_0304,M,Buddha,1,2,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+nL-cf0nH3sA6IT3MdTJko,USER_0305,F,Christian,4,5,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+BcOK8x0OtVKxrSr6fwWTg,USER_0306,M,Christian,3,5,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jWCkrToKK-aGGd6uWrIra,USER_0307,M,Buddha,4,5,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+QO3t1By6eA1j-Z_HSb-ci,USER_0308,F,Hindu,1,2,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+DUsuAsZxElNCDWC91HjVm,USER_0309,F,Konghucu,2,4,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fB_XdYqwHBc63KGthOr-L,USER_0310,M,Christian,1,3,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+01gf68n1JfXjdhwzySE0m,USER_0311,F,Hindu,5,1,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Ydq12WSMn59X49uSsYM4q,USER_0312,M,Hindu,2,2,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XTFpwMrsIEm7aJ2T1U5jJ,USER_0313,M,Others,4,4,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+LiHcAo7_YlnoaOS7hj2BD,USER_0314,M,Konghucu,4,4,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+yLCwP3QZWy_U_9PBfBzsP,USER_0315,F,Others,4,1,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+kJWLxZxYYvz1oltePeJ4I,USER_0316,F,Catholic,2,2,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+6PpEbJELPtVw6vB-f_42n,USER_0317,M,Islam,3,4,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+_MkzvnCr_da62YvcGmDpC,USER_0318,M,Buddha,3,5,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+RXnz4eDZxCjp8hnYZ7_bX,USER_0319,M,Others,3,1,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+WFYiWcKxM4LxSk1sKO2ZK,USER_0320,M,Konghucu,1,5,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+8HqmN70tX7n6iYkHOsjBM,USER_0321,F,Islam,1,1,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+WgTmNr2bq_4P1UATHLa7u,USER_0322,M,Buddha,5,3,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+xTv-p9gtaTkQsibniBJmG,USER_0323,M,Islam,2,3,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+GDaRF3qDbnT87rSZIuX3T,USER_0324,F,Buddha,5,2,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+2X0zRHPZzFukruI869zmv,USER_0325,F,Islam,1,4,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+S5ChuXlv8SBfriZ3r0nZw,USER_0326,M,Others,2,5,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+POo4f89C3-wfRiLnJRfP8,USER_0327,F,Catholic,4,4,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+us_QRT_d_c5hE5S_2Xz4G,USER_0328,M,Hindu,2,3,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+0xxoLPOmzP2UDaf6RUZXL,USER_0329,M,Buddha,1,5,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+vQ-_jFamyHlDnsa2Xt7fm,USER_0330,F,Hindu,4,2,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+sRlKA2GV2PcesCs0ErrNW,USER_0331,M,Buddha,4,4,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ZneeAopwACZpASMWGteId,USER_0332,F,Konghucu,2,1,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+3bimw0P3zQF0tYPKt9r2X,USER_0333,M,Konghucu,3,1,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+PHEZ7JOBFvGq_r1OcTtWT,USER_0334,M,Buddha,1,5,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+CKE85KVrJvrJsypq5OBSg,USER_0335,F,Catholic,1,1,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+CUR2OdwQkPMFsrObnT0Is,USER_0336,F,Islam,3,1,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+KDvnSlaJslFXD6vuder3v,USER_0337,F,Buddha,5,3,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+_IPNKDlbZdtuw3D1tpuzx,USER_0338,M,Islam,5,2,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+LaYAhhHzfUNkRyvYD7AHT,USER_0339,M,Catholic,1,1,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+WkT0QKjKJW-tYkDK-WB8p,USER_0340,M,Christian,3,1,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+sRV4UfXRjwWCDQOgXjEod,USER_0341,M,Others,3,4,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+s-_d-mEO46ecxnKuiNnFm,USER_0342,F,Hindu,4,5,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+E7Zz-6ld0CqYh_YCrqarL,USER_0343,F,Buddha,5,3,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+sAc95xph12cq9bt2gzaqw,USER_0344,F,Others,5,5,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+pla6CAXvaHuoYC5bGdVD7,USER_0345,M,Konghucu,4,4,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+88O7ydxWhmPBMClC1G3z0,USER_0346,F,Catholic,2,4,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jQyUlTNKr5C7auLGmCdGq,USER_0347,F,Islam,5,4,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+JHogvo275JQcF9u3_shg2,USER_0348,F,Buddha,4,1,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+5rzbciZASnr-PrMaWcpFy,USER_0349,F,Others,3,5,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+JkBmt_4aY1h_sCNwdfA1c,USER_0350,M,Islam,2,5,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+u76GT5qRhy6USHCMVokZJ,USER_0351,M,Christian,1,5,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+EN0ZJpQqsC42TSx_s4jix,USER_0352,F,Buddha,3,2,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+bFb7sDRfBkGbeU_2Lp6Dt,USER_0353,M,Hindu,2,3,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+DHIcSCGgwgMNrH9DyW7uk,USER_0354,F,Buddha,4,1,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+GH82f4V7LPQ_AQHk_3Bsy,USER_0355,M,Hindu,3,3,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ugP7T91_qwufHNgzowO7v,USER_0356,M,Islam,2,1,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+QDUCdk49xHqNDkIq0RE2A,USER_0357,F,Buddha,1,5,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+7LqytmNfFBWgr3EDqMNdw,USER_0358,F,Others,3,2,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+3f_TbIhmHQTXvxSEL0x-m,USER_0359,F,Catholic,3,2,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+2cD5ZjMy7EXkLp-DxN0U5,USER_0360,F,Konghucu,5,5,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+tQuZZ6_4C755ky6tbP11w,USER_0361,M,Catholic,2,3,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+I9rFTHWvwf4Uk9BpSlO3k,USER_0362,F,Christian,2,4,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+N-a1XQT17kY0-TwaPT1Ae,USER_0363,M,Catholic,5,5,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wbKVmFjUj2wb_2Zh_i4HV,USER_0364,F,Others,4,1,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+JnHjq-KxBgI-k06k5s2Rh,USER_0365,M,Christian,4,3,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+2CQysIP1unPU3AS2Fxf-n,USER_0366,F,Islam,5,4,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4tdLCuBdRDpp1y5Oq6bTc,USER_0367,M,Hindu,3,2,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+zhn8lSqnyTun_5UCKSNAI,USER_0368,M,Konghucu,1,1,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ndvRsPl1xBLu32qbtg5_O,USER_0369,F,Islam,4,2,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+lOCrgdoJZpoiFfAas5Rwu,USER_0370,F,Hindu,1,1,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+PFRkLPi0Y6EVxZzrI8-yt,USER_0371,M,Hindu,2,4,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+yIQtht-Qx4JWAdnV8_2Oc,USER_0372,F,Christian,2,1,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+gy32I6y16kWJ3s_UyFmtv,USER_0373,F,Others,4,4,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Qj3MlEpM7xQmmUuULFjbM,USER_0374,M,Catholic,3,5,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+NkATyomwE8VmfDakhqnTs,USER_0375,F,Catholic,2,5,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Q--Ta-FQEm7cRdyJjSHCH,USER_0376,F,Konghucu,1,1,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+76Ov6WlMvvpan8zkG0k-_,USER_0377,F,Others,3,3,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+LxlrqefoyceXaV8phEKlV,USER_0378,F,Konghucu,4,2,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+_45VkirBhrTKog4s5YMvx,USER_0379,F,Others,2,1,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+LqPkf55sHZw8ux3aZHc0y,USER_0380,F,Christian,4,1,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4fP2JIIo-zTtVtSZqWWD4,USER_0381,M,Christian,3,2,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XGWNmN7lCfa_XvTB5KC4w,USER_0382,M,Islam,3,1,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Sg_P541T7fLZYWLKHLkhC,USER_0383,F,Christian,3,2,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+EhFzl4Grlpoc_RjbNe_VW,USER_0384,F,Catholic,5,4,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+kreXoa-pq7fRy5gNt4WNy,USER_0385,M,Christian,5,3,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+KaKGgv_l8xiTIY1SoG9kl,USER_0386,F,Christian,1,5,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+g-uzXmHDfxPH3V8w0N22i,USER_0387,F,Hindu,3,5,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XQQcUxTTbMUmfDaUvF23Z,USER_0388,M,Christian,3,3,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+aCIFJN5Q1Xy033CZ0C8Oc,USER_0389,F,Others,2,2,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+QsrPA7EY-A4fxFYOEKPZY,USER_0390,F,Others,1,3,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ejKq9BLLtVthppntLnyf3,USER_0391,M,Konghucu,1,2,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+DjIWck8ct93Hau24epmOM,USER_0392,F,Islam,4,3,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+hYYNFgrxT6-vb5bp7LJ18,USER_0393,F,Christian,3,1,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+bmgoANBys78E-5TVMlf2A,USER_0394,F,Others,2,1,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+nwyJh2pVJaQl4W1U8HIRn,USER_0395,F,Konghucu,4,3,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+MI8f-OUSjl6a1lmbQo5gh,USER_0396,F,Buddha,5,4,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+hLZkYICBxCyxXxaWsKJUp,USER_0397,M,Buddha,3,3,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+9YL35PSZ-fmgQjT4Zlcws,USER_0398,F,Others,1,5,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+zqffBUwZVcN3yd8LCPOsz,USER_0399,M,Hindu,3,1,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+A3K9_2TBUBR64yGNuFvgI,USER_0400,M,Others,3,3,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+iTMdayH5Gx_zzNBLOm_zA,USER_0401,F,Hindu,5,5,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+_tKr4g6jwgLUxe3OQwMdr,USER_0402,F,Buddha,2,1,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+zzitCaPjJiTsjeV3uKC-a,USER_0403,M,Konghucu,2,4,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+mEtlBTiCwxY-zx3a7Wkgl,USER_0404,M,Hindu,2,4,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XwbozG2htRFrIAiwUlMPb,USER_0405,F,Konghucu,4,5,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Ng2PnH9GPYI6Sb3b1kksO,USER_0406,M,Konghucu,2,3,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+BAcpcJ9wRYGE7qFI_5Cwt,USER_0407,M,Hindu,4,1,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+NYRqyQZKBwBN9EJooi2-C,USER_0408,M,Catholic,5,4,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Nr767PdG5YkweECFG9jJD,USER_0409,M,Others,3,5,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+U2yyt9s9Uv48ONW03uK4H,USER_0410,M,Konghucu,4,2,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+IWkevaoRYnmeVL20SleNS,USER_0411,M,Catholic,5,3,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+U16xVqthKEuMmZmPFTXj0,USER_0412,F,Christian,4,2,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+5MhCE_R8r58cL49VdKLa1,USER_0413,M,Buddha,5,3,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+zOBnV2PTLEdVGTEAeaSFU,USER_0414,F,Islam,2,1,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+vqDT_BIG_N58__b16ZqJK,USER_0415,F,Buddha,2,5,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+njJIQ2uAhgv5mveZg8TdL,USER_0416,M,Buddha,5,1,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+sFGLCvD484LA5vRuwxLWw,USER_0417,F,Konghucu,1,2,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+FeZK0WzG7LMkX6xluy_TX,USER_0418,F,Catholic,5,5,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jxJx3OvN6lF0PfqUDer1P,USER_0419,F,Others,4,1,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+d7uexC6f6rUotgk9eehnl,USER_0420,M,Catholic,5,1,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+VKailUc-QcaOLxUJukoAo,USER_0421,M,Hindu,3,1,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+nTVwATMgXct6BSGefz8w_,USER_0422,M,Islam,1,2,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+hwPqbGXgVAhNAfXITnw4M,USER_0423,M,Catholic,5,1,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+xqjN_lwHDOXFemVH0ckqK,USER_0424,F,Hindu,1,4,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+VNCYA2Pz3_OHTIeZzY9uV,USER_0425,M,Islam,1,3,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+AdEENtnnv9Hw4HPwQFn1a,USER_0426,M,Catholic,5,4,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+oZGg4Xx4UWGGpbHnff-q9,USER_0427,F,Buddha,5,2,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+dmXzqcKS0xCDAwmL-mYeY,USER_0428,M,Buddha,2,2,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+X0PPa9lunai1Te9hf50oJ,USER_0429,M,Islam,5,1,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+si8efd4IEFvxRoIMMFqf4,USER_0430,M,Islam,5,5,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+MbvoIDReKt0d-gnQ1_TU6,USER_0431,F,Catholic,2,4,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ksXwOHcWs1MRpWl7etdAP,USER_0432,M,Others,2,2,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+hyFCWb-uFqLUHCGGWPn_n,USER_0433,F,Catholic,3,3,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+TYxZrZVkd7HZ7DnL5PkEq,USER_0434,F,Islam,5,2,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+9hqEnJbFN5xIwzSThehX0,USER_0435,F,Konghucu,4,4,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+x-sZje_v3dQZND9rTZhc5,USER_0436,F,Others,1,3,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ke-kcUw1T45Nnq6RpUlsZ,USER_0437,F,Others,2,3,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+bheBP-KF4FUz_VvQ_JBAB,USER_0438,M,Islam,5,1,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wlIpnPTpc3_Zuz-AOYFhv,USER_0439,F,Hindu,4,5,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Pk9lCBElwQbjtG3lZX1bD,USER_0440,F,Hindu,1,3,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+AyJqnC5dxo9-1WLsuMnCx,USER_0441,F,Hindu,5,1,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+9LCp_ALBhZOCHkQcAG6nh,USER_0442,M,Buddha,4,5,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+i0T_zUUo35UbJA8oZXNiu,USER_0443,F,Buddha,1,1,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wkGlDXXBKQ7DqohGoD37V,USER_0444,F,Hindu,4,2,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Mp2l4czO83Ozx4nC_8h8s,USER_0445,M,Hindu,2,2,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+mDyoBYEgOuAM52ezdHbUd,USER_0446,F,Others,5,5,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+bRTVqchG5H3PNCBS5mU2W,USER_0447,F,Konghucu,4,1,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+6VCu0XypVDxSdRHCbNpo3,USER_0448,M,Islam,4,4,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+2ywensaIJ5KpzTom7ZAMZ,USER_0449,F,Buddha,5,1,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ACY392V4hidx4aSEellfM,USER_0450,M,Others,1,4,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+UmpXZAa2_bRjhwuuAbCHO,USER_0451,F,Hindu,5,3,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+boDJEslGjVULVo2Klv5wn,USER_0452,F,Konghucu,4,3,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+1EG4OL0oPoEpNpU9hRkt6,USER_0453,F,Christian,3,3,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+FRIxVIXD_ovSoPvy-CFo6,USER_0454,M,Catholic,1,1,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+9UOm-z-Nv_jTtTbqHIMsS,USER_0455,M,Hindu,4,5,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+9pNIkbkx27Gfk_i0qja_f,USER_0456,M,Buddha,3,4,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+WjhCNwxb3-tzniEuF5epi,USER_0457,M,Hindu,1,1,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+L8eMmKab3Xf2R_HpTN12D,USER_0458,F,Christian,2,3,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+sGp2gPQxqbZHz_PUeUqw1,USER_0459,M,Islam,5,2,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4DDqOs8sX0ASie0BPovip,USER_0460,M,Buddha,1,3,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+PPXZ5lNuVusb1limj6cDr,USER_0461,M,Islam,1,5,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+xG031JL6bSnwjsJMmE8nj,USER_0462,F,Others,4,3,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+OxTsTIyb8CUQ9Hpwe_OtC,USER_0463,F,Others,3,5,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+YJGJ_zmG4AJYBBp0wzyvS,USER_0464,F,Catholic,1,2,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+JBQvAsKtJAYXOiyTNNX1k,USER_0465,F,Konghucu,5,4,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ZiAIzxepP_KOSegbKbTug,USER_0466,F,Islam,1,3,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+QQfgU5MOMvjavAvQFT6Li,USER_0467,M,Hindu,1,5,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fUJLMEjeVFz5aWfBjVPd2,USER_0468,M,Konghucu,4,4,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+VQoDyqDGNzuTk70NsoWm5,USER_0469,F,Christian,1,2,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+lpwNAGlLwc6-45pPfGFAQ,USER_0470,F,Islam,3,5,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+qh24B_zZnwpg9StyBfl4d,USER_0471,M,Christian,4,2,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+unJgAc1jWJTzR_4HWltHS,USER_0472,F,Konghucu,2,2,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+svgK_Ngdhl7ZdRofNkObO,USER_0473,F,Buddha,2,1,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+k__AXX8PthXzeKtPtm6b2,USER_0474,M,Buddha,4,4,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+OvKvWnxbyIeX3kMpC5p3m,USER_0475,F,Hindu,3,1,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+0jUz5PNVU4j0TDKiWQK_b,USER_0476,F,Hindu,4,2,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+b6-_g0SHZBC6TOhI7XwnB,USER_0477,F,Hindu,4,5,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+y1YETHK4A07opykxNZNuZ,USER_0478,F,Christian,4,3,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+aDQhakpzhnfouKggpqLWN,USER_0479,M,Catholic,4,1,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+MzXweK3YUBdKcJwOgMMER,USER_0480,F,Catholic,1,3,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+BsF0FPY7cZYRfY9vLhtV9,USER_0481,M,Catholic,5,1,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+7uSU_DVYrWsZRgNLFVUNM,USER_0482,F,Buddha,2,4,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+yDSSvrR7754FkXjaMu8JA,USER_0483,F,Buddha,3,3,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Hl3F8Zmi1A4heif_kfg4c,USER_0484,F,Others,1,1,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+dRRMALMb4f1Loi9YgqwxM,USER_0485,M,Catholic,2,2,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+SnKazaMbJvBM6_4HnxaJM,USER_0486,F,Konghucu,5,5,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+EGVcN77MEU3D_tTjFxjEJ,USER_0487,F,Hindu,4,2,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+DlgcGJXK3mFBbhCdFgNCU,USER_0488,F,Islam,5,4,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+f5hdwj6G2vnTRDe8eyQ7c,USER_0489,M,Others,2,4,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+V2xbIWuQrrMmcnJmblalm,USER_0490,F,Konghucu,2,1,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wDMLWM3vfWQyTSfuaL3tz,USER_0491,M,Konghucu,1,2,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+CTToDrJHTn-YgUV6g2BiG,USER_0492,M,Catholic,1,3,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+RtiTKIJbcyDT9QuJlf1vv,USER_0493,F,Islam,3,1,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-Uhb4VQRYj5Q8ecG1sHI_,USER_0494,M,Catholic,4,1,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+KYgQVmFOuEQcBqL_lRpo8,USER_0495,M,Islam,5,2,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+iyWrcQKvGVGxgE94Bn-A6,USER_0496,F,Hindu,4,5,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+vsE47z_r2BzK3aC6dAnu_,USER_0497,M,Konghucu,5,4,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wMc2JxhuL_sOWQK9uDj-W,USER_0498,F,Buddha,4,3,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+T4Bm7VZNrH8BjQ4l1FT4e,USER_0499,M,Catholic,2,4,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+v4vWbOFhhtVXYqeFfdrAx,USER_0500,M,Catholic,2,1,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4bXIlCSTH3EnCgHoAOQns,USER_0501,F,Konghucu,4,5,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+vf1pZQqEfJvIA21SGflto,USER_0502,F,Others,3,1,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+QQDr9cUB5lOPYfEq9xd00,USER_0503,F,Konghucu,2,5,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4ZwBMewhJPShcMd9zh5Iu,USER_0504,M,Hindu,3,2,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+xiL3NxnmTIre6FSJNmq0m,USER_0505,F,Others,2,4,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+aLk_3-DsuqIfkeOndiFik,USER_0506,F,Christian,1,1,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+YVO_jUNY4RWLFe29cboNK,USER_0507,F,Catholic,1,5,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+S_r_AxU9U8X9tLzhq_NEo,USER_0508,F,Islam,4,5,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+rOINKU5ZrCcCO-WS5woTW,USER_0509,F,Hindu,5,1,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ufX5-qcKKMjW0FaM1NPBo,USER_0510,F,Konghucu,1,4,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+OAFXc8cHJ1j-emfWEpxlc,USER_0511,F,Christian,2,2,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+3HM02s7gnI3MA13D2E-yG,USER_0512,M,Catholic,2,2,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-WB5L2D_lusLQbqbHZwjD,USER_0513,F,Catholic,1,3,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Rf4rEu6tL3dk-vYaCm8j7,USER_0514,M,Konghucu,1,3,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ZRnMbOAWUbveZNMD0Cnms,USER_0515,M,Konghucu,5,3,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+W3ea3DgXbD7K2R4wa1h_z,USER_0516,F,Konghucu,1,4,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Kwy-cDCcShTVLpDvh8spR,USER_0517,M,Buddha,4,3,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+iv1kwronAJvDGR3rSkuAU,USER_0518,M,Christian,5,3,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Gq0DvX9XgGqd3wLJJUHOB,USER_0519,M,Hindu,1,4,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-szi6BS659Bsh8VgKuaC0,USER_0520,M,Konghucu,2,3,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+dgNlh7Ze6m_dczC3fUkwB,USER_0521,M,Islam,1,2,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+T-BGUgez1XbqhbTX6jDY_,USER_0522,M,Catholic,4,1,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+zGoB2H541Qza5wsvhgwJO,USER_0523,M,Hindu,4,2,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+TsTuwNyHUGjvD_VSTIWtg,USER_0524,M,Buddha,2,2,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4t_GmA_Em1WBq24enlgAQ,USER_0525,M,Konghucu,5,5,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+rub4VfmPvVF6tvikthsGx,USER_0526,M,Others,2,1,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jNCO4LBzh1wkmg0pwqv8a,USER_0527,F,Catholic,1,2,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+AA7skhru5vw1kcM22IfT8,USER_0528,M,Others,2,1,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fbk3VPtsmwwnfzIVGgSY7,USER_0529,M,Christian,5,2,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jeD9V8F3F46l6LWXTU2gv,USER_0530,F,Konghucu,3,4,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+3HN3mweoozcUw9Qm921F3,USER_0531,F,Konghucu,2,4,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+bkKM3vfEiushJDuCqA1ds,USER_0532,F,Others,5,3,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+cDU6Nj-FUVWWUIHnxeC6D,USER_0533,M,Konghucu,3,4,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4KbgBQeH8joh-E_cwnZru,USER_0534,M,Konghucu,5,1,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ZCQ7172JWgdj1P7EgqmEK,USER_0535,M,Hindu,5,5,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+m7sPoaR5uMtdgKvo7cYLq,USER_0536,F,Islam,3,3,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+u4YPX9ZHqKWKi5AHTdP9x,USER_0537,M,Konghucu,2,2,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+1DFYNAsO8HcstxF78veKE,USER_0538,M,Konghucu,3,4,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+u1WfVh-8GKwsxGi-86uK5,USER_0539,F,Buddha,2,3,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+43glTGhNIquBQwFnD6ve4,USER_0540,F,Hindu,5,4,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+KVRTdSdjiXPekQNMplUkH,USER_0541,F,Catholic,2,3,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+hl3PnyvallehGxXpPO14v,USER_0542,M,Islam,4,1,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+7wC6izYF37hOQmajynwxf,USER_0543,M,Catholic,3,1,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+YrtgdBtT1s--uT0VwT9DJ,USER_0544,M,Catholic,3,2,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ilD1AZ8bFGwCsxaurpi41,USER_0545,M,Christian,1,3,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+mm-0OCx70Wbq8yzwzmOQG,USER_0546,F,Christian,5,5,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+7gjtRkBbGLxi92n5Uybp3,USER_0547,M,Catholic,5,1,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wZ0YE5M09mQzfsE6dKZhz,USER_0548,M,Others,2,2,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+uE4vtm7oqJQFmtS2OuIvy,USER_0549,F,Buddha,4,3,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+LtCv9BFt0ZWjqr-uUS4Kx,USER_0550,F,Christian,5,2,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+59SMAsxWT6fvLu6jLGf5V,USER_0551,F,Christian,4,1,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+EE6ISCiLYi-q57jQcEiKC,USER_0552,M,Christian,1,2,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+7isg9JQq_wSq4r9yYbL0q,USER_0553,F,Christian,3,3,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+MxTL0bNw90bSTW5SMWZxj,USER_0554,M,Islam,4,4,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+8PiIb1DYAbLEb74Z3_g0s,USER_0555,F,Catholic,5,5,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+zbW-f_TCMLvM7MLxcxtpT,USER_0556,F,Others,3,1,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+TPsnZ6j40pUb_mMDQlloY,USER_0557,M,Others,4,3,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+2ttujTJ2QuGA0zfS1sGK3,USER_0558,F,Islam,4,3,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+xyVNZHTeTuHx8jUKRmap6,USER_0559,F,Hindu,2,2,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+1131_tK4mMKXMDxOiFyYv,USER_0560,F,Others,3,1,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+CnS6MTe9BY12U7fP2HhTO,USER_0561,M,Hindu,4,4,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Nq4UI4kXjNfGZdRosHHFd,USER_0562,F,Others,2,4,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+k9Ng1rFEreaC4XmLLdZgu,USER_0563,M,Konghucu,5,5,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+YtcdxNXK4UuqEwAG-uj1_,USER_0564,F,Hindu,4,5,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wWmTAHtZQXDwJIUiW1i3w,USER_0565,F,Islam,2,2,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+EGjQWAVKpKTKi8zfk3VP7,USER_0566,F,Konghucu,2,1,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+S99nLqyOlhP-YodBLOHs3,USER_0567,F,Catholic,3,4,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+sMwXatb1fr2kzKfVsBBOm,USER_0568,F,Others,2,1,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jxixkY9GAIovKkH12YSws,USER_0569,F,Hindu,4,2,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+UfR9WltI7fr8xYkCYDRtt,USER_0570,M,Christian,1,1,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+1cWrxTiZDveFlQWRWO51z,USER_0571,M,Hindu,5,1,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+CFDvBjEqS2nAs6GJmzbjb,USER_0572,F,Buddha,4,1,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+w20lOST08gzUCp1FUbtIt,USER_0573,F,Christian,4,2,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+YVItS3g8cPLEWK2jDkruv,USER_0574,M,Christian,5,2,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+US34ufGjhTHMK0sgt_cky,USER_0575,F,Christian,5,2,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+gKB-M102U9n3PhqQADr_o,USER_0576,F,Others,2,4,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+7Uc-WNBKXvCayovlgQH_k,USER_0577,F,Konghucu,4,3,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+QkKva5WtTZKhCo2SnNhnw,USER_0578,M,Others,2,1,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+sPl9-ZYylSiGwsB8Q1uXC,USER_0579,F,Hindu,3,5,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+cjRZ5qE3YUk0_NblSkgry,USER_0580,F,Others,2,5,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+pAHxheqrmQFXgY9CD5l9u,USER_0581,M,Christian,3,3,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+RgK0wL8jrXr8OGTB8SUko,USER_0582,F,Konghucu,1,1,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+JK37xEhM09ZwrgwmxTLDQ,USER_0583,M,Buddha,4,1,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+y9b_gz2IzxdC72U3D8BJs,USER_0584,F,Islam,3,1,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+GOQxu3Jzq2wumKg5h82lA,USER_0585,F,Buddha,1,2,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Y_SmRpWYiat6wJGdQIK7B,USER_0586,F,Catholic,5,4,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+1jKkuw9NgH4W3ebagZF23,USER_0587,F,Konghucu,2,2,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+otuKLSfB99xQb1ZLxPnPK,USER_0588,F,Konghucu,1,1,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wsu7ciXzeSxjIqjYjKeq-,USER_0589,M,Christian,3,3,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+8sOWPyNhwIVbpNW8qcm4F,USER_0590,M,Buddha,4,1,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+FulL5OumHRDVjteoM5WW9,USER_0591,M,Hindu,5,1,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+M4buJPTRL1tRcxwm_Kke1,USER_0592,M,Catholic,5,4,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+VHUJH1H0_Me0vHVx2O0rn,USER_0593,F,Others,1,1,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+cpjT7ioS7WEXCt8dTbIoF,USER_0594,F,Konghucu,1,2,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+BNIEpWfyzyJnD-BE8DYmc,USER_0595,M,Others,2,5,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+c0s82VtYdrPosfvWgZhde,USER_0596,F,Buddha,5,4,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+RiWzdyFjQRXVxdqsVdyKQ,USER_0597,F,Christian,5,4,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XDyPO0pSDNV5NuFDfTN9P,USER_0598,F,Hindu,2,4,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+NmJu9_aHPpDGkZ2gO94TZ,USER_0599,M,Christian,4,1,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+6Rn3tO_996AEQTTyQ0KJX,USER_0600,M,Catholic,2,4,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+9pPV0UudA6zVYmfgzOsfm,USER_0601,F,Others,3,4,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+p2TUGLMqB_r3QObrLQFTw,USER_0602,M,Others,3,2,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+IEoPmFlVU6bBcWyQqubqY,USER_0603,F,Buddha,1,3,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Cn7b7C1_oZGYeYvcy1aTH,USER_0604,M,Others,2,2,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+lX5hLElK7dTS41N_GsE1M,USER_0605,F,Christian,2,2,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+PHs8nGb_kBgY1ObHppjK8,USER_0606,F,Catholic,1,3,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wr8i3W71O8cEuPWgxwTJX,USER_0607,F,Konghucu,4,3,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+UEpLkks9Kuto96nQA082X,USER_0608,F,Hindu,2,4,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+blZoPH4w-XQyUoWbX3rci,USER_0609,F,Buddha,5,2,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+nFWl32fdn8bNcTwJuj2sg,USER_0610,F,Buddha,2,1,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+FSs2CxNfkXkNF4mAdTy52,USER_0611,F,Others,4,5,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Gpvi0BBKKnghMlw1ICZY2,USER_0612,F,Catholic,2,5,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+SRxXi5vsYVNB59zque95A,USER_0613,F,Others,5,5,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+7QQWaU_YQTZPGi2vCap4s,USER_0614,F,Buddha,3,2,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ncJDZv0Vzvq9y1-yA0zZ7,USER_0615,F,Hindu,3,3,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+JhZDuuy0vNKOZkVYIrw21,USER_0616,M,Hindu,4,4,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+bKQoSPElJhWWZNqpUBvc-,USER_0617,M,Buddha,4,4,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+6whHRAiNbek0tS_zj8y1n,USER_0618,M,Christian,5,5,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+JVwyACdEJ1iQREBsXGTaR,USER_0619,F,Others,3,4,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+SrHDfXjd5gdbeQpGwz2fE,USER_0620,M,Christian,3,1,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Kgwt1qP58YTTCrMR3puvg,USER_0621,M,Others,3,1,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jvbPKiDJwSJ32hHGaYhAr,USER_0622,M,Hindu,3,3,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+b1XJldukhfg8m59Vaw6V4,USER_0623,M,Christian,5,4,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+iNZV-f_87RaTQAGhj-Kjy,USER_0624,F,Others,4,2,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+2xxmkq4_AbYkbjz25Tenu,USER_0625,F,Catholic,4,4,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+kv70KL8xxBlys-Thg132_,USER_0626,F,Islam,1,2,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+MgRR8mJc_kJgg1pUtwVhu,USER_0627,M,Konghucu,4,5,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+yEG3RanI2cIPOw3XmXvv1,USER_0628,M,Buddha,3,2,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+MuflspMGF7-Df7FY84yK_,USER_0629,F,Others,2,5,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+8J8a5by8AMTsrG_rrgGX-,USER_0630,M,Catholic,3,1,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+t2m5TcMVyFbtq5ADGAuVJ,USER_0631,F,Hindu,3,4,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+2j8fxG-OW1zkoFa3SBkSq,USER_0632,M,Islam,4,3,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+vYXHEVcBwySC8ol-2s2cq,USER_0633,F,Konghucu,1,4,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+zkmg478gTMdHEHpd4tnqX,USER_0634,M,Others,5,5,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-Rfnc9c0AWS8tLpbUyAFC,USER_0635,M,Hindu,2,4,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+RPO3HDHbRsbGFZqttCZzg,USER_0636,F,Others,2,3,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ZZmvIfDt6eGoh2T0mP6wA,USER_0637,M,Islam,1,5,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Bromfp8xx2Jcu5zNqQog2,USER_0638,M,Catholic,3,5,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+0Oy5VvmtT-Be6MRRcAatL,USER_0639,F,Islam,5,3,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+gCdG9PTEr1UY_uXB776xL,USER_0640,M,Others,5,4,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+2uIFT0N0GqSRfJwoyVpGa,USER_0641,F,Christian,5,3,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+WpKyhXEXqHk3h6hiDEj7u,USER_0642,M,Catholic,4,2,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+YyxEyG-EJsRg44i5YkPND,USER_0643,M,Buddha,3,1,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+5VyjvdP4HTFPCQMwWDfXx,USER_0644,F,Hindu,2,3,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Liktot6vnPkGfJwSNACOp,USER_0645,F,Christian,2,5,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jsG3iPTTjPtuLP5_YA6uI,USER_0646,F,Others,3,2,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+aRBWTGsafgXrKTpIDmywb,USER_0647,F,Buddha,2,1,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+H_ovMEbqsqUDVaXY983mO,USER_0648,F,Islam,4,3,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+oWZSZbkPCw4GSrzFbYlVa,USER_0649,M,Christian,5,1,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Zvm6Va4EprogAUc9Yg1Q2,USER_0650,M,Others,2,4,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-5aLJOiU_gEUtsffaMT5k,USER_0651,F,Buddha,4,5,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+JM_SutIdr_AiPnxTpdjs2,USER_0652,F,Catholic,5,3,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+NlhiOE_hlq8C9ubDyUhRd,USER_0653,M,Islam,3,5,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+y7-myPyp5EWT04Tr2K8gp,USER_0654,M,Buddha,3,2,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ftrD1wWq_YQrilN91HEqS,USER_0655,F,Islam,4,2,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fWiTT5ETsKRa4eH7RAZbp,USER_0656,F,Buddha,4,1,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+F7_bG2VtBwFMzI6aWmpFh,USER_0657,M,Hindu,4,2,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+uvEXf6haAqKEdTu78qG0a,USER_0658,M,Catholic,2,2,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+5NN56O23jqkj1AFouyACY,USER_0659,M,Christian,3,3,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+x4iMabvivi8QN1eGFPPXS,USER_0660,M,Buddha,2,5,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+vD3wIJOIzyMct-UUFRRtO,USER_0661,F,Islam,2,1,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+lk80LDIcwx6lZWXDG5sGD,USER_0662,M,Catholic,5,2,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wovir3lAagl4yegUUk-FD,USER_0663,M,Christian,4,5,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+566Y8ol5oGy_duwiQ5L7-,USER_0664,M,Islam,2,4,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fySbAESDxZkGMsddTOhSq,USER_0665,F,Catholic,5,3,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+LUy_e6pMI-AySjh1f41G4,USER_0666,M,Islam,1,2,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+A5T6A5N_sJAtSZ5ZKh2If,USER_0667,F,Others,5,2,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+RhKpI6xM0TzKKaiVHm2K2,USER_0668,F,Konghucu,1,2,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+yEbsXA3rrxyjkryTaT4OA,USER_0669,F,Konghucu,1,5,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+1AhsSO-99xy1tgmLv4v4b,USER_0670,F,Catholic,1,3,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+KtnQQudpoS-0oKC0i81no,USER_0671,F,Others,1,3,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+zFTjpNLy6xbuNwNzUnGxR,USER_0672,F,Christian,4,5,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+nmJHl9PSZDl95RzCThvcj,USER_0673,M,Christian,2,1,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+SFMqmybc60xS2E0xmIgzK,USER_0674,M,Islam,2,3,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+JvfDVUpFi52D0hlDvLvPc,USER_0675,M,Catholic,1,5,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+utW_HasxeAFbggqXqNmIA,USER_0676,M,Others,2,5,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+IEGqCuXY9KliWOX5H2vfa,USER_0677,F,Buddha,1,2,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XVPja2X1f_ybuYtqsz2Tk,USER_0678,M,Konghucu,2,5,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ub7ywUjI6ad50kPiuQ5RM,USER_0679,M,Others,5,2,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+sUfgfVybkKeuQASDv0JI3,USER_0680,M,Christian,4,4,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fFaTyo0FXi6Z8GBn-YeYm,USER_0681,M,Others,3,5,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+2P3z7TP179Rg5yTeR5bCa,USER_0682,M,Konghucu,1,3,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+6zT_g2JHvraw6g-pOrUm1,USER_0683,M,Buddha,5,2,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+oJ5cRX5RUQ2p6gNMuRamo,USER_0684,M,Buddha,5,4,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+8SCUrSj_xzle4IgBLrmQ_,USER_0685,F,Hindu,4,1,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+hHMe5YfYgFWrMYUOEXe0-,USER_0686,F,Islam,4,1,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+_mJPXo2uup4nsQGoGjQjD,USER_0687,F,Islam,1,1,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+UModwwL6Uilb_zmrk1-fz,USER_0688,F,Islam,1,2,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-3_gQ3IeGatDGXYd7q3nE,USER_0689,M,Catholic,5,5,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+2ba5V-I-SBNAX2KpDGwqw,USER_0690,M,Christian,5,2,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+r9xWxUu9JfUyG6GGu9wNs,USER_0691,F,Others,4,1,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-DtBSZdvj7s0Kgwr4jDR1,USER_0692,F,Christian,1,5,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+hYC9r_t6RAyJGrj_1Od-Y,USER_0693,F,Hindu,1,4,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+msRtaETnL5u6WI6Yqv3Pt,USER_0694,M,Konghucu,5,1,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+J7duRNn7109Qwp5_gysoe,USER_0695,M,Hindu,3,3,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+yZXtMh86dSXLbwPmm9RU2,USER_0696,F,Hindu,5,5,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+qRSG8GlLSCpI-HOjvUENg,USER_0697,M,Buddha,3,2,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+lC7QIEChzCegpbx-jzRQW,USER_0698,F,Islam,1,2,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+DAs1ocqCw3NDUokKsqZFq,USER_0699,M,Others,5,3,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+kSmKVfO3XjHDjOxkPdq4y,USER_0700,M,Catholic,4,2,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+P_2TfHhA9gfVxpfsX2FP-,USER_0701,M,Christian,2,3,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-E52Nrs2u8YEYjgNgDDjS,USER_0702,F,Catholic,1,1,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+z59EkiDbW8XpmexCec0m6,USER_0703,M,Islam,1,1,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+K37IRLsoWxC8Av_yxuE9y,USER_0704,M,Islam,5,2,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+WVIFa3O8gZDErmaT34Z90,USER_0705,M,Christian,2,5,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ePLWpPtrBXclc8I8WKkay,USER_0706,M,Buddha,2,2,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Y99QvenaCI-NaPFeCI5IW,USER_0707,F,Konghucu,2,1,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+h_KQv2doP1TrWBUB0BmJZ,USER_0708,F,Others,5,5,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+QzTjNki4vp-FV0kntClhM,USER_0709,F,Hindu,5,3,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+3YeUwVcLZijUbQ4jM9XVM,USER_0710,M,Buddha,3,1,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+JiktplEh7Cz-wuJRDthhu,USER_0711,F,Islam,3,3,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+kvl-lllW4NpuVTrUvpY71,USER_0712,F,Islam,3,4,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-hq2Zf4cNcZdUlrFX5IMN,USER_0713,F,Others,4,5,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+qykIUyEbZYw3GuNKHXxXJ,USER_0714,F,Buddha,1,1,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+AngGGFP72BLAobr1Mpd3H,USER_0715,F,Hindu,3,3,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+6VFrl9dc-uFJrEnn3XgbX,USER_0716,F,Hindu,4,3,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+RX3nYL5BBNky6zlGWRR9Y,USER_0717,M,Islam,4,3,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+IZVIB05iJ7BVZNs1Y31Cl,USER_0718,M,Konghucu,5,2,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ysxrWPlB96aZcl2Roic8t,USER_0719,F,Hindu,2,2,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Vppfxirz92v3Inf6U72uy,USER_0720,F,Hindu,2,4,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+lf1G2WBSEXfwCxG9RzcBm,USER_0721,F,Christian,3,4,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+LU0rkJ9TFozZBML1QPJXV,USER_0722,M,Konghucu,1,3,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4qyhveRcnxm2fYossR1Xo,USER_0723,M,Christian,1,2,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+1qh925E_TTKUYLb6hUwxc,USER_0724,M,Catholic,1,5,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+FlQOtv2zbQGiLptiq83mt,USER_0725,M,Buddha,4,5,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+MdsVe0vpZsOCGrYeR8CdW,USER_0726,F,Islam,4,3,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+KHmY7Ni9B0SZazlB2rQM3,USER_0727,M,Hindu,4,2,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+7hxuWlT7uMg8xiVX3xdm5,USER_0728,M,Catholic,5,5,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+gA8NNAjlBk0fxfKojGLUw,USER_0729,F,Christian,4,2,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+RAKZpAwRezVhvwzT1lNmR,USER_0730,F,Hindu,1,4,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+RC1BfNm5DoG-qrekJwTaV,USER_0731,F,Buddha,1,3,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+etnsa3-LgAVf55GD4g0D5,USER_0732,M,Christian,2,3,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+13PwnDmCxhMFeUNkc8Zxg,USER_0733,F,Konghucu,1,2,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+94PpBoVpF42l52OQdan9f,USER_0734,F,Konghucu,4,2,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Uob5nzszJc4YQexQOqcFB,USER_0735,M,Islam,4,1,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+70AyXwlM_LavyxsjUERm5,USER_0736,F,Hindu,3,5,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+b9EYuWbRXrJroDFzLVIVg,USER_0737,F,Catholic,5,4,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+vVufBgoZeefy7DxQH_n0w,USER_0738,F,Islam,1,5,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fGMiFIVvUMOHr8p-3jUfw,USER_0739,F,Hindu,5,1,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+1AuAV2fqAv_W6oeWMhPs-,USER_0740,F,Hindu,1,2,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+_nanjoOaQBZQk1ASsAnoy,USER_0741,M,Hindu,2,5,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+3Qw7-W_rsOQKYU1xrozqu,USER_0742,M,Others,2,3,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+tI2BNHnDsLwRpKvSIcr-i,USER_0743,F,Hindu,5,5,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+t5nChOpPx2ft1ucikRPSe,USER_0744,F,Hindu,4,2,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+mHIaydoxN_6RWwjH6mpXA,USER_0745,F,Islam,3,5,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XepFaKiAkpWoYOS0s4bZT,USER_0746,F,Buddha,1,1,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+15YqMDOze9lNyAOTcY86S,USER_0747,F,Others,1,4,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+EdSsBvLbs6Cfg8W0BqIs7,USER_0748,M,Buddha,3,2,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+RK6_cktGqQ1PeFw4jt4Ph,USER_0749,F,Islam,5,3,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+YlMXBXTe1C--f6Vzp4Hb4,USER_0750,M,Konghucu,5,1,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+u-nwzhNRtfE7AoQ2Bybut,USER_0751,F,Buddha,1,2,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+soslwaugtkhBL7-T0E2Ni,USER_0752,F,Catholic,2,3,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+o1vpkknRLjnaJ6qYE-Lua,USER_0753,F,Catholic,3,3,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+NyK7WFH-GZ9FYLTt8wV4b,USER_0754,M,Konghucu,1,2,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+FxgG7mVstVqaBPsihuezr,USER_0755,F,Islam,2,1,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+YPfqmG4tjyy0CwSzr-CWq,USER_0756,M,Catholic,5,3,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+8uZnCMWSB2kzVjNviutIX,USER_0757,F,Others,2,4,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+6ZQ4vC1z7YjSw4gXsXoJW,USER_0758,F,Islam,4,1,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-v3pqXX0iYSlicAHt9r8i,USER_0759,M,Catholic,1,3,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+V9ysAASV9-YU0EPqPN91s,USER_0760,M,Christian,3,2,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+VvRAje_skX7eql8EaarsI,USER_0761,F,Konghucu,2,2,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+oXMpyXYrzggs2IH41d7MY,USER_0762,F,Konghucu,5,1,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+G7edL6ihDoKGOsJX5e1kD,USER_0763,F,Konghucu,2,3,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ZrxKR2GvVN9IgMDgmXn--,USER_0764,M,Islam,5,3,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+GE7PuvbodmehsY-QSzNbX,USER_0765,M,Others,4,1,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+1TxB19VhOJHipjgLBi4xo,USER_0766,F,Hindu,5,1,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+D1rwWnWV3-lALhODXd9pt,USER_0767,M,Konghucu,3,1,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+NavCqDYpsasLlHeT2jERO,USER_0768,F,Others,4,4,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+kkTtilSkbhSV3QHgnvBuh,USER_0769,F,Catholic,2,4,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+YJx_fs3gnbAh5DPt417RD,USER_0770,F,Christian,1,4,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wlo8YA4UZLEeQPdP9rSqs,USER_0771,M,Islam,5,2,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ufhf1wVnSFqawK8tspBsA,USER_0772,M,Catholic,3,4,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+IhqcjXqVtH3odq8JARx5o,USER_0773,M,Hindu,1,4,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+88rZTQtbwusP-6naVSVQd,USER_0774,M,Catholic,1,4,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+v38DpT7_unPuKsIQtMrcK,USER_0775,F,Others,4,3,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-Wk201pKudR0kQClS1wnf,USER_0776,M,Konghucu,2,5,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+GMpVI-k1Ta8Zi7GQcD82n,USER_0777,F,Christian,1,4,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+uonU-wn494cTbeQja6OGw,USER_0778,M,Others,3,1,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+KwKRT8qWE7fWs3D7GeT28,USER_0779,M,Others,5,4,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+skN-aJUoMz_Kr5JCl904h,USER_0780,M,Konghucu,5,5,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+pLC6JeLeIUBo13DoO50iz,USER_0781,F,Buddha,5,2,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+7Jwjtd8I3aGRssNB4gAta,USER_0782,M,Konghucu,4,2,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+tTOL0dlhRmJFV69vnx9hR,USER_0783,M,Buddha,3,4,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+RzTX0cxBH6YZrOytf9yiu,USER_0784,F,Konghucu,1,1,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+brpQc8lJOyPDX_g0W91al,USER_0785,F,Christian,3,1,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+lTLzC5muCKet5xKL2GIyt,USER_0786,F,Others,4,3,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+xY4bzwqVRgVmoPnp-ksju,USER_0787,F,Christian,4,1,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+NzsLkpkg8YnxIlTH8Dyzc,USER_0788,F,Islam,2,3,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+bhVPKqwEYugDr9MWWAfbt,USER_0789,F,Konghucu,3,3,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+FB0-bpCfi_rjhq3c39Asc,USER_0790,M,Others,5,1,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fThtI3ZaiUzEy7_sJtHCR,USER_0791,F,Buddha,4,1,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Q2vKXLuT94lkyx8-wGwmy,USER_0792,M,Islam,4,3,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+gTxl_o88ScYJJpighwCN9,USER_0793,F,Catholic,2,2,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+RH5loGm5_-cHQSX6CSNaB,USER_0794,M,Christian,5,4,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+7-2g1sQIIE8mTOP64BaSk,USER_0795,M,Islam,4,2,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+BjNC__3W0cAMRt2QGun4V,USER_0796,M,Others,1,1,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ij1JjxRavqovBuHgqO-MX,USER_0797,F,Christian,5,5,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+sV-8eauzBR96bkNi8RrhA,USER_0798,F,Islam,3,1,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+lw8UUlj3J64L6JwRSWVpd,USER_0799,F,Catholic,2,3,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+PPGcBAOL5zYNa_hAxhMWv,USER_0800,F,Catholic,1,5,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+r0IlLuKDerfhK0Zpw_YvR,USER_0801,M,Hindu,1,5,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+i5pirucvk1swjkhRNMzqU,USER_0802,F,Buddha,3,4,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+nIOdXUPaFvkgr59UxkIrl,USER_0803,F,Others,2,1,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XQukQtQnzf7Wv1xnoP-TS,USER_0804,F,Hindu,4,4,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4RMbsTHciNN1hZlLNwkGW,USER_0805,M,Buddha,2,2,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+9uVjMN0aG4wq9_4e4IU1h,USER_0806,F,Catholic,4,5,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Pk-VtRE2fae2VxV0gaC1z,USER_0807,F,Islam,3,4,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+cvtWbjYvMpZcGrttHea1E,USER_0808,F,Others,3,2,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+CspeQY2Ub3Rv3VRcscL91,USER_0809,F,Konghucu,1,1,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fef85vhjupYaZSgBLn5xx,USER_0810,F,Christian,1,1,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+IbNNv2AekdZpDgY_WseVp,USER_0811,F,Catholic,1,3,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+up9pdjAb1CtKrFcIQVvf7,USER_0812,F,Catholic,3,2,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+9PhD9D_YLNst35AnTUpxG,USER_0813,M,Others,4,2,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fnVZMme7zCfA51xNQHyGu,USER_0814,M,Others,3,4,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+UvAt7xYx2KJVcozF4vf7_,USER_0815,F,Islam,3,5,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+46uCPH0Hl9IAIwkx5-FdD,USER_0816,M,Others,1,5,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+JnyzGf4k4CYSFSPN36vdu,USER_0817,F,Konghucu,2,3,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ea5NxDhWPZOlp-J7Kcf5p,USER_0818,M,Catholic,1,3,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+v5iVRQHTCACKpZo-rljXR,USER_0819,F,Catholic,2,3,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+UvMztvThwvwbpEyA6ZjFl,USER_0820,F,Islam,4,2,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+IBW3byF2BIjuqTHDxq6hc,USER_0821,F,Others,4,1,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+D446n9KcAkIRNv7w_NmTO,USER_0822,F,Catholic,5,1,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+LoIRRlNnibvtYCbnPLXvQ,USER_0823,M,Buddha,5,4,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+BoWmBeY0kPGNfOVCe5PbM,USER_0824,F,Buddha,5,5,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+tftnw4j1pes9ZeYqvMQ1I,USER_0825,M,Konghucu,4,5,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+uv-5sWWWR-7Vr6NT96XCK,USER_0826,M,Buddha,1,4,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4N7aIs-25TZG9R1jmeoZw,USER_0827,F,Buddha,1,2,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+GhIJB-K0sp-P9boA4B8Y9,USER_0828,M,Catholic,1,1,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+EN_ogj5uUOVU4OIcV2NWg,USER_0829,F,Christian,3,3,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+edRwG4y1zyenCWfWIKae9,USER_0830,M,Buddha,5,1,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+VcrDbG4wyiJmL7rjFm5g8,USER_0831,F,Konghucu,1,4,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-dPaZoCDc62I4soPq8gA_,USER_0832,M,Buddha,5,1,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+SIEaDKE2BRdkdwXAjuW35,USER_0833,M,Catholic,5,3,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+uo03skfWHTPCZnSDGhgt7,USER_0834,F,Others,3,5,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+f0biNMp-znN6iaeq_BlTK,USER_0835,M,Hindu,4,4,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+NT9Ptg2r8DVqTNu4Q6VhR,USER_0836,M,Catholic,1,2,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4Lz7pyJRxT2WI2nSXw9-c,USER_0837,F,Others,3,1,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Kw5ZV5vjuT9TdeQnvQilU,USER_0838,F,Islam,4,1,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+gbH-WyiZF8G9MEnB4Kcde,USER_0839,F,Konghucu,4,2,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+yZljU_zBziKwVcFgu-TnP,USER_0840,F,Buddha,1,2,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+hMpulbMVPNlqb_fLkD-k5,USER_0841,M,Islam,5,3,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+3Fwgv3thnHkyfmLcG0PlA,USER_0842,F,Buddha,2,1,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ibwzB-dC1zbp9LWxRWzed,USER_0843,F,Hindu,5,4,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+tMXRYrFoMpwzavxLiQpxH,USER_0844,F,Others,5,1,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+KylRQ-AsZzDxRuIEt3rXV,USER_0845,F,Christian,2,3,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+O1iptA-JP1ZrOa-Me7wQ9,USER_0846,M,Hindu,4,4,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+CC-h0GE0mB9HSGRigC5N8,USER_0847,M,Catholic,2,4,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+KY72w6qVLK4g7OAOsYB_Z,USER_0848,M,Catholic,2,4,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+30y_2e78S1T-s3_M8710L,USER_0849,F,Islam,3,3,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+eJsBTSkILcjC6iCdoLGel,USER_0850,M,Islam,3,1,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XKU3d29PBac3X1_fMKoni,USER_0851,M,Catholic,3,5,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+0XSwRwKAL0s0GNZj4ir8n,USER_0852,F,Konghucu,4,4,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wL1ZJYauzaskYr1y4BtjO,USER_0853,M,Catholic,2,2,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+MX669K0qCMFYaEEcXhj_E,USER_0854,M,Catholic,1,3,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ulshd6jLUUMNWlnIzSpsc,USER_0855,F,Buddha,2,4,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+nDLQTeQ3LVFd8H3pRYgGq,USER_0856,M,Hindu,4,3,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+qVll1kanoozaXCn6SBDqO,USER_0857,F,Konghucu,3,2,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+nPhp_NPPLQOOlRzmv26JB,USER_0858,M,Buddha,4,4,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+QBhidSzqto-3h1poJNEj_,USER_0859,M,Christian,3,1,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+i9fPGaPzvEa2fqYJTJsNU,USER_0860,F,Konghucu,4,3,WEEKDAY - TRAVELING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+yTqFznov-oAYLUe3hKZt9,USER_0861,M,Buddha,1,4,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+mrBsUx93rgV-RCBbquNLS,USER_0862,F,Catholic,3,4,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+mRvXp64XCZgmvyEqPPATg,USER_0863,F,Buddha,3,3,WEEKEND - WEEKEND,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+qcoftBDADA1j2_6U8CG8R,USER_0864,F,Islam,2,2,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ZGEflDJ-DkfuqSAue-V2o,USER_0865,F,Konghucu,4,3,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+tv1K6K_w6qICHhOvE640U,USER_0866,M,Others,5,5,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+5tfQzQl6nNpN-V0hBQca2,USER_0867,M,Catholic,5,1,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+CZK1OnNC30rW0w0yejdqq,USER_0868,F,Hindu,2,2,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+oR34ka1y3pmapxG6AO5Yk,USER_0869,M,Buddha,4,1,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+GA3kBzxd3TqKOnPA43xb2,USER_0870,M,Catholic,1,1,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+DGtNevQZ8B6DszQKybl_F,USER_0871,M,Konghucu,2,3,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+9-YWzAGxNxZOkeJ46eUTc,USER_0872,M,Others,3,5,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+GoYak7XtJQDiR9EkX9V9P,USER_0873,F,Islam,1,4,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4imUKJI9LAIw5DGdwWaiZ,USER_0874,M,Islam,4,5,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Vp9OYmm6xsNSvbkIDtmsd,USER_0875,F,Konghucu,3,2,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+KOpz0l7eYmutEDNZ7ddLV,USER_0876,M,Konghucu,5,5,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+PaKyfI-CvaxPJepCLhnEq,USER_0877,M,Buddha,4,1,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+gdd4s-55EP7C25qFgGJuh,USER_0878,F,Catholic,3,4,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+VmAJF2Ldj0YCCbwpjodxO,USER_0879,F,Hindu,4,5,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+TbTo6Vs_IuNtpcBoBLCcR,USER_0880,F,Others,3,4,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+QuFxuEf9vNyk69_u57i7d,USER_0881,F,Konghucu,4,5,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+svuhfOJcVy-wlM6fXCvL7,USER_0882,M,Konghucu,5,4,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+6sha6NuhmGJEtA1Z9cEzl,USER_0883,F,Christian,2,5,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+gO3-QeUK9vEuLQ2ErIcSQ,USER_0884,F,Islam,3,2,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+bDAzh-aPqaB_Ml-ETgh84,USER_0885,M,Christian,3,4,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+pyO6yKCbCSZY8zRmgxhzn,USER_0886,M,Others,5,3,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+biQtck2t5bs9e69vqN6RF,USER_0887,F,Hindu,2,1,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+P1uj5QPNXJaTmS472it5u,USER_0888,F,Konghucu,4,4,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+HMmDTV0ODvoQzSSP6VlKD,USER_0889,F,Others,3,1,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+CUGLDt5fVByy4mZJ62wFV,USER_0890,F,Buddha,2,5,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+443To8xzdVxwxuJqbdSXz,USER_0891,F,Islam,4,5,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ap1KHnjgL5i2FwSJYxK94,USER_0892,F,Christian,3,5,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+_X_e_UGMSu6LPt8N35SN_,USER_0893,F,Islam,3,5,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4vJL1K6xFWQlW5X84-RB_,USER_0894,M,Christian,4,5,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+AWuojDmW1qjm9jW29Fms_,USER_0895,F,Others,5,2,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+sewq8BbKsfidwACyaKx9_,USER_0896,F,Konghucu,2,1,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+YCvIvsDv8jkwfX14v-7Tq,USER_0897,M,Catholic,3,4,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-mcV47ACUxwAyC6AEivpT,USER_0898,M,Catholic,4,2,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Ha3a77oIMGEH9nDv0aOFd,USER_0899,F,Buddha,3,2,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ve9dl2gIRPWdUQLbSI6qz,USER_0900,F,Hindu,4,2,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+cIRNM5piY7ETljqZPrGyv,USER_0901,F,Islam,3,2,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+R3b1aE-uR2iBZXKAXFQ4P,USER_0902,F,Hindu,1,2,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+6o6yTBU1MgltVpAGngNxh,USER_0903,M,Christian,5,1,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+5gU3GAjezeMNMG2VaaOMF,USER_0904,F,Konghucu,2,4,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+JISxICbL2PfVLiYGGEOj8,USER_0905,F,Buddha,5,1,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+GgWIZvuyTjEbDpiSw4NkX,USER_0906,M,Catholic,5,4,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+P_sRejpMmBpy7KSV0y28B,USER_0907,M,Catholic,2,2,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+n9XvO0amszSTNWsyzbXBa,USER_0908,F,Buddha,5,2,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Vp4PaTRK1S0_5tONQeEsH,USER_0909,F,Others,1,5,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+CA-Xsz84nW8FdTkdPxez2,USER_0910,M,Islam,4,3,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jp5FcORYbH7_4P_EO151p,USER_0911,F,Hindu,2,3,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+lHYja7Hok6Y_VYJ0bqyL1,USER_0912,M,Christian,4,1,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+WYhVqVR4FNPlUu0CvmKip,USER_0913,M,Hindu,3,1,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ooOG6IoSh6Mzc4zJKB3VA,USER_0914,F,Catholic,1,4,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+0L2vkrgbPgyMoGF5ayqKa,USER_0915,M,Buddha,4,5,WEEKDAY - TRAVELING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+3os3GZJ3Tga2vfbyghOS4,USER_0916,M,Catholic,4,4,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+DLWiL_zMT2N50GxI1kdPh,USER_0917,M,Konghucu,2,5,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+WZet1qL5rMDyAw3KxvhLX,USER_0918,F,Catholic,3,3,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+iEmvEBJc6-HtpMaEO1qCR,USER_0919,F,Christian,2,3,WEEKEND - WEEKEND,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+vtJ0KaBYJxY-tZVvh50YY,USER_0920,M,Islam,3,5,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+vWZkuSLL0ToR0GP9a3LWd,USER_0921,F,Islam,2,4,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4RAhI5X-rQ9cdY0rkw3eH,USER_0922,M,Konghucu,4,1,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+dHCBHvqn1Volsab1hhixP,USER_0923,M,Christian,4,5,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+AyusiJOBvblIpOEhl1Viq,USER_0924,F,Buddha,1,5,WEEKDAY - RESTING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+x75DJwp3m9aqK4HRPlaZF,USER_0925,F,Hindu,4,5,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+rJudm3o0pFH8Xxm7N3nhg,USER_0926,F,Buddha,5,4,WEEKDAY - TRAVELING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+2N8u_3FymFdjDHvwXWNuV,USER_0927,M,Hindu,4,1,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+DJUZoe3xetTMl6FhCyJiv,USER_0928,M,Islam,5,4,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Bk6tZ1cHhyNWpbYLoDYB1,USER_0929,M,Catholic,4,2,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+iumH21HZdTQXZtqHHyMDR,USER_0930,F,Others,5,2,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+fTC_MQu1O32nIbdP6JoV8,USER_0931,F,Catholic,5,5,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jkr-WHjcDMeMkXBhm55YD,USER_0932,M,Konghucu,4,5,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+c354keHjrALXYL637lbJ6,USER_0933,F,Buddha,5,5,WEEKDAY - WORKING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+1JnhLyIc6PdIuKK--9l2C,USER_0934,F,Christian,1,1,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4E0tI3arMNM-hsuBlUXZH,USER_0935,F,Hindu,3,1,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+43k_IMpkdMQutRz3zZ1Fi,USER_0936,F,Catholic,5,5,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+O0c2ev3mEFME-dCj4MKdu,USER_0937,M,Konghucu,5,1,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+6AYKQZoDfdoo1fyJdT2W7,USER_0938,F,Buddha,1,3,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+vPpf1sb04g9YDPKz9R2EH,USER_0939,M,Christian,1,5,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4aWNZ_EbiC--FmSX81Qc3,USER_0940,M,Islam,2,3,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+hv9JEGvXnARzFNGND9wpf,USER_0941,M,Christian,3,4,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Rt4BIjhDKh9Kr2q3XZoCY,USER_0942,F,Others,2,3,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jC1AK7TShvaxd0z7nNswS,USER_0943,F,Islam,5,4,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+RGgOH7vMMh92T7Ce1U8Bv,USER_0944,M,Buddha,1,4,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+oT0kXQRXbX4q96q9tnAyv,USER_0945,F,Christian,5,5,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+O2dZbTwTJO3PeiaDWm4Cl,USER_0946,M,Konghucu,4,5,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+1RRy2GWr1sLG-FCLRWyN0,USER_0947,F,Buddha,3,4,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+gO90FPbsQ5noZHRWlmqR5,USER_0948,M,Islam,4,1,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+6SB7Ju99bQKsGZlp1OySr,USER_0949,F,Others,1,2,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+AVVzNDUFtsJmNShDlqokO,USER_0950,F,Konghucu,1,3,WEEKDAY - RESTING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+vJWPtc8bTUqZWqkBjITLY,USER_0951,F,Others,1,4,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+wHYNXxxcrFX5BD7BQoiiE,USER_0952,F,Catholic,3,2,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+FG1MHzDtgzno0v7ib6_87,USER_0953,F,Konghucu,2,5,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+kn_dxr8JSWTIabuv0j2IS,USER_0954,M,Catholic,5,5,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+1KMuECYn3ZTXk-T7M8pQ8,USER_0955,M,Konghucu,5,4,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+CQ4WlTS59eOsf3LZgFD8i,USER_0956,F,Islam,5,1,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-YrJPcijxn5BtqRm6Za1f,USER_0957,M,Hindu,5,4,WEEKDAY - WORKING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+3lEVcvFO67INP3mMmIb4b,USER_0958,F,Hindu,5,3,WEEKDAY - WORKING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+OmDiSciGrT1KrOmaQ-mUA,USER_0959,M,Catholic,2,2,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+gXKtci5OroE1kbqCyKk38,USER_0960,M,Catholic,4,1,WEEKDAY - WORKING TIME,All Segment,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+RbCihDP1k0IlmZLXoEDkA,USER_0961,F,Others,3,4,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+4HbeEdxiQap4r2cKmBZ81,USER_0962,F,Christian,4,3,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Aznp1pzLl3mXUjyqr2upZ,USER_0963,F,Konghucu,4,3,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+rmr4-pRVQiXS1G4DSEkXK,USER_0964,M,Konghucu,5,1,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+B9dJk8XwJjo3fd79ty6Q4,USER_0965,M,Konghucu,5,3,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+KQKwbS-5mCzb-QBczzcHq,USER_0966,M,Konghucu,2,3,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-qkxqp5uhrt4xAPCioey2,USER_0967,M,Christian,3,3,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ImvdFQOhUlINO-up_L77o,USER_0968,F,Others,1,3,WEEKDAY - RESTING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Xjue3moqHhBXWjGb_s4lI,USER_0969,F,Catholic,4,4,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+_TB3Tnb3yR_DzzHdHwMTs,USER_0970,M,Hindu,1,1,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+jQo_tMytZQhQQsdvCb7Oo,USER_0971,M,Christian,3,2,WEEKDAY - RESTING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+XocaJIXJ4tNnVqg-0M6ag,USER_0972,M,Islam,4,2,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+US33xEhvsJrcqOLJKgwHK,USER_0973,M,Christian,1,3,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+rFyHn3XzY07mdVydNAr3D,USER_0974,F,Others,1,4,WEEKEND - WEEKEND,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+vVuT2rt5I_PplMNUHPzBT,USER_0975,F,Christian,2,3,WEEKEND - WEEKEND,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ckL8VIeFkibmj7Bku4toq,USER_0976,F,Christian,3,3,WEEKDAY - WORKING TIME,Young Gen & Early Jobber,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+EJhRmcEkiPwOyzHbs-Zg6,USER_0977,F,Others,3,4,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+_dn_JFfG8KuXl_qwzD6XC,USER_0978,M,Buddha,3,5,WEEKEND - WEEKEND,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+CibdcGc5NMce2zKV08D00,USER_0979,F,Islam,4,1,WEEKDAY - RESTING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+dHX95ehHM981iJu0HI316,USER_0980,M,Catholic,2,2,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+FIz5I9JbG0T4v5nJTqlmD,USER_0981,F,Hindu,5,4,WEEKDAY - WORKING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+ojwNJr3aHX6IS3EGoqdlZ,USER_0982,F,Hindu,4,2,WEEKEND - WEEKEND,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+Ewz18jR6bxfRwOnOsBUuT,USER_0983,F,Catholic,3,4,WEEKDAY - TRAVELING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+w14SU-BUWVT644n7Ftg2P,USER_0984,M,Buddha,4,4,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+LCIMPQRs2TyDyrwwx4IlD,USER_0985,F,Others,1,5,WEEKDAY - WORKING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+5qQMS7tzc1QO53KjlBNWy,USER_0986,M,Hindu,4,3,WEEKDAY - RESTING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+dFONQzGwsNg5b7kChtrzv,USER_0987,F,Christian,4,1,WEEKEND - WEEKEND,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+qXtLHt233-IJOouoCw2Bw,USER_0988,F,Hindu,3,5,WEEKDAY - WORKING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+no514t7RejcNlIAEZE5eL,USER_0989,M,Islam,1,2,WEEKDAY - TRAVELING TIME,Silver Ager,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+rgfkNxcViuVGyFizvp7UC,USER_0990,F,Islam,3,1,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+cR0SiPHpfYGwuJc2qJ-Bn,USER_0991,M,Catholic,1,3,WEEKDAY - TRAVELING TIME,Wealthy Achievers,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+GmJzeQ2adJLyD8GWGIQ1M,USER_0992,F,Buddha,1,5,WEEKDAY - RESTING TIME,Emerging Wealth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+mTStf-gPuqD8sEoIn5W4d,USER_0993,F,Konghucu,1,4,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+1Ew8wDBIeI-mgMtqzvj5J,USER_0994,M,Konghucu,3,2,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+-IAouet_U5vhtRVKrX6D6,USER_0995,F,Buddha,1,5,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+clILPCyOE3VdEA2y_CICB,USER_0996,F,Hindu,2,5,WEEKEND - WEEKEND,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+PWKWNtYBKi8OfGXqlRLnY,USER_0997,M,Buddha,2,1,WEEKDAY - TRAVELING TIME,Mature High Networth,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+e80dha23rP0i14SE95nS3,USER_0998,M,Others,5,2,WEEKDAY - TRAVELING TIME,Working Professionals,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
+UJL9WLwliYHb0dfJt0HIN,USER_0999,F,Buddha,2,2,WEEKDAY - RESTING TIME,Minimal,Camdun,2024-10-25 21:41:06 ,Camdun,2024-10-25 21:41:06 
