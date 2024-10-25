@@ -14,7 +14,15 @@ def timer(func):
         result = func(*args, **kwargs)
         # Get the total time it took to run, and print it.
         t_total = time.time() - t_start
-        print('{} process took {}s'.format(func.__name__,t_total))
+
+        # Convert to hours, minutes, and seconds
+        hours, remainder = divmod(t_total, 3600)
+        minutes, seconds = divmod(remainder, 60)
+
+        # Format as hh:mm:ss.fff
+        formatted_time = f"{int(hours):02}:{int(minutes):02}:{seconds:06.3f}"
+
+        print('{} process took {}'.format(func.__name__,formatted_time))
         return result
     return wrapper
 
