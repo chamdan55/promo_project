@@ -121,7 +121,7 @@ def main():
             sql_insert= insert_to_mastermerchant()
         elif table.upper()=='MASTERPROMO':
             sql_insert= insert_to_masterpromo()
-        elif table=='TRANSACTIONDMA':
+        elif table.upper()=='TRANSACTIONDMA':
             sql_insert= insert_to_transactiondma()
         
     
