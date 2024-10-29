@@ -58,34 +58,34 @@ def get_data(df):
         print('Error when getting the data')
         print(f'An Error occured: {e}')
 
-def insert_to_masteruser():
+def insert_to_userproperties():
     # FREEPDB1.JABAR.
     sql_insert = """
-    INSERT INTO MASTER_USER
-    (ID, USER_ID, GENDER, RELIGION, TOTAL_ASSETS, ACCOUNT_AGE, TRANSACTION_TIME, SEGMENTATION, UPDATE_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
-    VALUES (:1, :2, :3, :4, :5, :6, :7, :8, :9, TO_TIMESTAMP_TZ(:10, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :11, TO_TIMESTAMP_TZ(:12, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
+    INSERT INTO USER_PROPERTIES
+    (ID, USER_ID, GENDER, RELIGION, SEGMENTATION, TOTAL_ASSETS, ACCOUNT_AGE, TRANSACTION_TIME, UPDATE_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
+    VALUES (:1, :2, :3, :4, :5, :6, :7, TO_TIMESTAMP_TZ(:8, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :9, TO_TIMESTAMP_TZ(:10, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :11, TO_TIMESTAMP_TZ(:12, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
     """
     return sql_insert
 
 
 
-def insert_to_mastermerchant():
+def insert_to_promoseg():
     # SQL command to insert data
     # FREEPDB1.JABAR.
     sql_insert = """
-    INSERT INTO MASTER_MERCHANT
-    (ID, MCC_GROUP, MERCHANT_CATEGORY, UPDATE_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
-    VALUES (:1, :2, :3, :4, TO_TIMESTAMP_TZ(:5, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :6, TO_TIMESTAMP_TZ(:7, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
+    INSERT INTO PROMO_SEGMENTATION
+    (ID, SEGMENTATION, CATEGORY, SCORE, UPDATE_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
+    VALUES (:1, :2, :3, :4, 5, TO_TIMESTAMP_TZ(:6, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :7, TO_TIMESTAMP_TZ(:8, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
     """
     return sql_insert
 
-def insert_to_masterpromo_1():
+def insert_to_promobrand():
     # SQL command to insert data
     # FREEPDB1.JABAR.
     sql_insert = """
-    INSERT INTO MASTER_PROMO_1
-    (ID, PROMO_ID, MCC_GROUP, MERCHANT_CATEGORY, RELIGION, GENDER, SEGMENTATION, TOTAL_ASSETS, ACCOUNT_AGE, TRANSACTION_TIME, START_DATE, END_DATE, UPDATE_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
-    VALUES (:1, :2, :3, :4, :5, :6, :7, :8, :9, :10, :11, :12, :13, TO_TIMESTAMP_TZ(:14, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :15, TO_TIMESTAMP_TZ(:16, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
+    INSERT INTO PROMO_BRANDING
+    (ID, USER_ID, BRAND, CATEGORY, SCORE, UPDATE_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
+    VALUES (:1, :2, :3, :4, :5, :6, TO_TIMESTAMP_TZ(:7, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :8, TO_TIMESTAMP_TZ(:9, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
     """
     return sql_insert
 
@@ -93,9 +93,9 @@ def insert_to_masterpromo_2():
     # SQL command to insert data
     # FREEPDB1.JABAR.
     sql_insert = """
-    INSERT INTO MASTER_PROMO_2
-    (ID, PROMO_ID, MCC_GROUP, MERCHANT_CATEGORY, RELIGION, GENDER, SEGMENTATION, PROMO_LOCATION, TOTAL_ASSETS, ACCOUNT_AGE, TRANSACTION_TIME, START_DATE, END_DATE, UPDATE_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
-    VALUES (:1, :2, :3, :4, :5, :6, :7, :8, :9, :10, :11, :12, :13, :14, TO_TIMESTAMP_TZ(:15, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :16, TO_TIMESTAMP_TZ(:17, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
+    INSERT INTO MASTER_PROMO
+    (ID, PROMO_ID, BRAND, CATEGORY, RELIGION, GENDER, SEGMENTATION, PROMO_LOCATION, TOTAL_ASSETS, ACCOUNT_AGE, TRANSACTION_TIME, START_DATE, END_DATE, UPDATE_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
+    VALUES (:1, :2, :3, :4, :5, :6, :7, :8, :9, :10, TO_TIMESTAMP_TZ(:11, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :12, :13, :14, TO_TIMESTAMP_TZ(:15, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :16, TO_TIMESTAMP_TZ(:17, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
     """
     return sql_insert
 
@@ -136,16 +136,16 @@ def main():
         #     datas = list(df.values)
         datas = list(df.values)
 
-        if table.upper()=='MASTER_USER':
-            sql_insert= insert_to_masteruser()
-        elif table.upper()=='MASTER_MERCHANT':
-            sql_insert= insert_to_mastermerchant()
-        elif table.upper()=='MASTER_PROMO_1':
-            sql_insert= insert_to_masterpromo_1()
-        elif table.upper()=='MASTER_PROMO_2':
+        if table.upper()=='USER_PROPERTIES':
+            sql_insert= insert_to_userproperties()
+        elif table.upper()=='PROMO_SEGMENTATION':
+            sql_insert= insert_to_promoseg()
+        elif table.upper()=='PROMO_BRANDING':
+            sql_insert= insert_to_promobrand()
+        elif table.upper()=='MASTER_PROMO':
             sql_insert= insert_to_masterpromo_2()
-        elif table.upper()=='TRANSACTION_DMA':
-            sql_insert= insert_to_transactiondma()
+        # elif table.upper()=='TRANSACTION_DMA':
+        #     sql_insert= insert_to_transactiondma()
         else :
             print(f"There's no {table} table")
             exit()
