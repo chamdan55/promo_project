@@ -58,10 +58,10 @@ def get_data(df):
         print('Error when getting the data')
         print(f'An Error occured: {e}')
 
-def insert_to_userproperties():
+def insert_to_userproperties(table):
     # FREEPDB1.JABAR.
-    sql_insert = """
-    INSERT INTO USER_PROPERTIES
+    sql_insert = f"""
+    INSERT INTO {table}
     (ID, USER_ID, GENDER, RELIGION, SEGMENTATION, TOTAL_ASSETS, ACCOUNT_AGE, TRANSACTION_TIME, UPDATE_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
     VALUES (:1, :2, :3, :4, :5, :6, :7, TO_TIMESTAMP_TZ(:8, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :9, TO_TIMESTAMP_TZ(:10, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :11, TO_TIMESTAMP_TZ(:12, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
     """
@@ -75,8 +75,9 @@ def insert_to_promoseg():
     sql_insert = """
     INSERT INTO PROMO_SEGMENTATION
     (ID, SEGMENTATION, CATEGORY, SCORE, UPDATE_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
-    VALUES (:1, :2, :3, :4, 5, TO_TIMESTAMP_TZ(:6, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :7, TO_TIMESTAMP_TZ(:8, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
+    VALUES (:1, :2, :3, :4, :5, TO_TIMESTAMP_TZ(:6, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :7, TO_TIMESTAMP_TZ(:8, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
     """
+    print(sql_insert)
     return sql_insert
 
 def insert_to_promobrand():
@@ -137,7 +138,7 @@ def main():
         datas = list(df.values)
 
         if table.upper()=='USER_PROPERTIES':
-            sql_insert= insert_to_userproperties()
+            sql_insert= insert_to_userproperties(table)
         elif table.upper()=='PROMO_SEGMENTATION':
             sql_insert= insert_to_promoseg()
         elif table.upper()=='PROMO_BRANDING':
