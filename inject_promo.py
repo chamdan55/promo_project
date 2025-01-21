@@ -41,7 +41,7 @@ def get_arguments():
     for i, arg in enumerate(sys.argv[1:], start=1):
         args.append(arg)
     table = args[0]
-    df = pd.read_csv(args[1])
+    df = pd.read_csv(f'{table}.csv')
     return table, df
 
 @timer
@@ -62,41 +62,41 @@ def insert_to_userproperties(table):
     # FREEPDB1.JABAR.
     sql_insert = f"""
     INSERT INTO {table}
-    (ID, USER_ID, GENDER, RELIGION, SEGMENTATION, TOTAL_ASSETS, ACCOUNT_AGE, TRANSACTION_TIME, UPDATE_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
-    VALUES (:1, :2, :3, :4, :5, :6, :7, TO_TIMESTAMP_TZ(:8, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :9, TO_TIMESTAMP_TZ(:10, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :11, TO_TIMESTAMP_TZ(:12, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
+    (ID, GENDER_ID, RELIGION_ID, SEGMENTATION_ID, AUM_ID, ACCOUNT_AGE_ID, TRANSACTION_TIME_ID, LOCATION_ID, UPDATED_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
+    VALUES (:1, :2, :3, :4, :5, :6, :7, :8, :9, TO_TIMESTAMP_TZ(:10, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :11, TO_TIMESTAMP_TZ(:12, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
     """
     return sql_insert
 
 
 
-def insert_to_promoseg():
+def insert_to_promoseg(table):
     # SQL command to insert data
     # FREEPDB1.JABAR.
-    sql_insert = """
-    INSERT INTO PROMO_SEGMENTATION
-    (ID, SEGMENTATION, CATEGORY, SCORE, UPDATE_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
-    VALUES (:1, :2, :3, :4, :5, TO_TIMESTAMP_TZ(:6, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :7, TO_TIMESTAMP_TZ(:8, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
+    sql_insert = f"""
+    INSERT INTO {table}
+    (ID, SEGMENTATION_ID, CATEGORY_ID, MCC_CATEGORY_ID, SCORE, UPDATE_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
+    VALUES (:1, :2, :3, :4, :5, :6, TO_TIMESTAMP_TZ(:7, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :8, TO_TIMESTAMP_TZ(:9, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
     """
     print(sql_insert)
     return sql_insert
 
-def insert_to_promobrand():
+def insert_to_promobrand(table):
     # SQL command to insert data
     # FREEPDB1.JABAR.
-    sql_insert = """
-    INSERT INTO PROMO_BRANDING
-    (ID, USER_ID, BRAND, CATEGORY, SCORE, UPDATE_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
-    VALUES (:1, :2, :3, :4, :5, :6, TO_TIMESTAMP_TZ(:7, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :8, TO_TIMESTAMP_TZ(:9, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
+    sql_insert = f"""
+    INSERT INTO {table}
+    (ID, USER_ID, BRAND, CATEGORY_ID, MCC_CATEGORY_ID, RANKING, UPDATED_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
+    VALUES (:1, :2, :3, :4, :5, :6, :7, TO_TIMESTAMP_TZ(:8, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :9, TO_TIMESTAMP_TZ(:10, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
     """
     return sql_insert
 
-def insert_to_masterpromo_2():
+def insert_to_masterpromo_2(table):
     # SQL command to insert data
     # FREEPDB1.JABAR.
-    sql_insert = """
-    INSERT INTO MASTER_PROMO
-    (ID, PROMO_ID, BRAND, CATEGORY, RELIGION, GENDER, SEGMENTATION, PROMO_LOCATION, TOTAL_ASSETS, ACCOUNT_AGE, TRANSACTION_TIME, START_DATE, END_DATE, UPDATE_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
-    VALUES (:1, :2, :3, :4, :5, :6, :7, :8, :9, :10, TO_TIMESTAMP_TZ(:11, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :12, :13, :14, TO_TIMESTAMP_TZ(:15, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :16, TO_TIMESTAMP_TZ(:17, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
+    sql_insert = f"""
+    INSERT INTO {table}
+    (ID, TITLE, DESCRIPTION, DESCRIPTION_DETAIL, TERM_CONDITION, IMAGE, IS_PRIORITY, DAY_OF_WEEK, TYPE, BRAND, CATEGORY_ID, MCC_CATEGORY_ID, RELIGION_ID, GENDER_ID, SEGMENTATION_ID, LOCATION_ID, AUM_ID, ACCOUNT_AGE_ID, TRANSACTION_TIME_ID, START_DATE, END_DATE, IS_DELETED, IS_OTHER, UPDATED_BY, UPDATED_TIME, CREATED_BY, CREATED_TIME)
+    VALUES (:1, :2, :3, :4, :5, :6, :7, :8, :9, :10, :11, :12, :13, :14, :15, :16, :17, :18, :19, TO_TIMESTAMP_TZ(:20, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), TO_TIMESTAMP_TZ(:21, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :22, :23, :24, TO_TIMESTAMP_TZ(:25, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'), :26, TO_TIMESTAMP_TZ(:27, 'YYYY-MM-DD HH24:MI:SS TZH:TZM'))
     """
     return sql_insert
 
@@ -110,13 +110,25 @@ def insert_to_transactiondma():
     """
     return sql_insert
 
+def update_master_promo(df):
+    # SQL command to insert data
+    # FREEPDB1.JABAR.
+    df = df[['ID', 'TYPE']].values
+    
+    sql_insert = """
+        UPDATE MASTER_PROMO
+        SET TYPE = :2
+        WHERE id = :1
+    """
+    return sql_insert, df
+
 @timer
 def main():
-    db_username = "JABAR"
-    db_password = "oracleApri"
-    host = "103.127.137.244"
-    port = "1521"
-    service_name = "FREEPDB1"
+    db_username = "N_SURR_PROMO"
+    db_password = "N_SURR_PROMO"
+    host = "192.168.142.214"
+    port = "1530"
+    service_name = "PROMODEV"
 
     # Construct the DSN
     dsn = oracledb.makedsn(host=host, port=port, service_name=service_name)
@@ -137,16 +149,16 @@ def main():
         #     datas = list(df.values)
         datas = list(df.values)
 
-        if table.upper()=='USER_PROPERTIES':
-            sql_insert= insert_to_userproperties(table)
-        elif table.upper()=='PROMO_SEGMENTATION':
-            sql_insert= insert_to_promoseg()
-        elif table.upper()=='PROMO_BRANDING':
-            sql_insert= insert_to_promobrand()
+        if table.upper()=='MASTER_USER':
+            sql_insert= insert_to_userproperties(table.upper())
+        elif table.upper()=='SEGMENTATION_CATEGORY_METRICS':
+            sql_insert= insert_to_promoseg(table.upper())
+        elif table.upper()=='USER_BRAND_METRICS':
+            sql_insert= insert_to_promobrand(table.upper())
         elif table.upper()=='MASTER_PROMO':
-            sql_insert= insert_to_masterpromo_2()
-        # elif table.upper()=='TRANSACTION_DMA':
-        #     sql_insert= insert_to_transactiondma()
+            sql_insert= insert_to_masterpromo_2(table.upper())
+        elif table.upper()=='UPDATE_PROMO':
+            sql_insert, datas = update_master_promo(df)
         else :
             print(f"There's no {table} table")
             exit()
@@ -159,6 +171,7 @@ def main():
         print(f"Making {batches} batch(s) before inserting ... ")
 
         for i in range(0, len(datas), batch_size):
+            # if i > 483:
             # Create a cursor and execute the query
             cursor = connection.cursor()
             batch = datas[i:i + batch_size]
